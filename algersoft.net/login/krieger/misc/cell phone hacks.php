@@ -1,0 +1,1 @@
+This file redirects to https://www.flickr.com/photos/tt0077269/sets/72157650899719665/
