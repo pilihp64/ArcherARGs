@@ -42,19 +42,17 @@
 </script>
 
 </head>
-<body>
-
+<body> 
 <div class="main_menu_container">
-  	<ul id="main_menu">
-  		
-				<li><a href="/">HOME</a></li>
-							<li><a href="/about/">ABOUT</a></li>
-							<li><a href="/expertise/">EXPERTISE</a></li>
-							<li><a href="/testimonial/">TESTIMONIAL</a></li>
-							<li><a href="/contact/">CONTACT</a></li>
-							<li><a href="/login/">LOG IN</a></li>
-				
-	</ul>
+        <ul id="main_menu">
+              
+                                <li><a href="/">HOME</a></li>
+                                                <li><a href="/about/">ABOUT</a></li>
+                                                <li><a href="/expertise/">EXPERTISE</a></li>
+                                                <li><a href="/testimonial/">TESTIMONIAL</a></li>
+                                                <li><a href="/contact/">CONTACT</a></li>
+                                                <li><a href="/login/">LOG IN</a></li>
+                                </ul>
 </div><br>
 <br>
 <br>
@@ -69,3 +67,6 @@
 <br>
 <br>
 <span id="tagline">“WE DON'T ASK WHAT YOU'LL USE IT FOR”</span>
+</body>
+<!-- MADE IN GEORGIA :p -->
+</html>
