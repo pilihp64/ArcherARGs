@@ -7,6 +7,7 @@ $menu_items = array(
 	"CONTACT" => "/contact/",
 	"LOG IN" => "/login/",
     );
+
 ?>
  
 <div class="main_menu_container">
@@ -15,7 +16,7 @@ $menu_items = array(
         <?php
     foreach ($menu_items as $title => $url)
     {
-        if($current_url==$url)
+        if(isset($current_url) && $current_url==$url)
         {
         ?>              
                         <li class='active'><?php echo $title; ?></a></li>
