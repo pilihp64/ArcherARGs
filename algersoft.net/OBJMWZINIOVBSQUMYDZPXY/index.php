@@ -66,16 +66,7 @@
 <br>
 <br>
 <br>
-<div id="box_title_container">
-	<div id="box_title">TESTIMONIAL
-    </div>
-</div>
-<div id="box">
-	<div id="box_text">
-<p>"I lost my hand in the line of duty. I feared I'd never work again. Algersoft's replacement limb is exponentially stronger than the original and I'm now beyond my best. Thank you, Algersoft." 
-<p>CS, New York.
-	</div>
-</div>
-<br><br><br><br>
+<span id="tagline">GREETINGS KEYMASTER. KEY CONFIRMED.</span>
 </body>
+<!-- MADE IN GEORGIA :p -->
 </html>
