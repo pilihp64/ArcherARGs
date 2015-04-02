@@ -54,9 +54,9 @@ ASSISTANCE IS NEEDED POST HASTE!
   <script src="record_progress.js" type="text/javascript" charset="utf-8"></script>
   <script type="text/javascript" charset="utf-8">
 
-    var target_goal = 102073;
-    var total_progress = 1;
-    var user_contribution = 1;
+    var target_goal = 100000000;
+    var total_progress = 185929;
+    var user_contribution = 68;
     var update_interval = 3000;
     
     // START SCRIPT AFTER PAGE FINISHES LOADING
@@ -102,11 +102,11 @@ ASSISTANCE IS NEEDED POST HASTE!
 </div>
 <div id="box_kah" class="task_active">
 		<div id="box_text_kah">
-OUR EXPERIMENTAL ÜBERMIKROFON HAS DETECTED A HIGHLY COMPLEX SIGNAL NOT OF THIS WORLD, ENCRYPTED USING AN ADVANCED ALIEN CIPHER. HOWEVER, IF WE POOL OUR RESOURCES INTO A VAST BRUTE FORCE ATTACK… TOGETHER WE CAN CRACK IT WIDE OPEN!	</div>
+OUR EXPERIMENTAL ÜBERMIKROFON HAS DETECTED A HIGHLY COMPLEX SIGNAL NOT OF THIS WORLD, ENCRYPTED USING AN ADVANCED ALIEN CIPHER. HOWEVER, IF WE POOL OUR RESOURCES INTO A VAST BRUTE FORCE ATTACK… TOGETHER WE CAN CRACK IT WIDE OPEN! <p style="color:red">- WARNING! TIME LIMIT CIRCUMVENTION DETECTED</br>- TEMPORARILY INCREASING ATTACK REQUIREMENTS</p></div>
 
 		<div id="main_kah">
 			<div id="anal">WAVEFORM ANALYSIS</div>
-    		<div id="per"><span class="percentage_update">0</span>% COMPLETE</div>
+    		<div id="per"><span class="percentage_update">0.19</span>% COMPLETE</div>
   	 		<div id="image_faded_kah">
           <div id="target_goal">
         
@@ -115,7 +115,7 @@ OUR EXPERIMENTAL ÜBERMIKROFON HAS DETECTED A HIGHLY COMPLEX SIGNAL NOT OF THIS 
           </div>
   	 		</div>
 			<div id="anal">SPECTROGRAM ANALYSIS</div>
- 		    <div id="per"><span class="percentage_update">0</span>% COMPLETE</div>
+ 		    <div id="per"><span class="percentage_update">0.19</span>% COMPLETE</div>
 		</div>
 
 		<div id="box_flip_kah">
@@ -123,9 +123,9 @@ OUR EXPERIMENTAL ÜBERMIKROFON HAS DETECTED A HIGHLY COMPLEX SIGNAL NOT OF THIS 
    			    <a id="worker_action"><span class="button">Attack!</span></a>
    			  </div>
    			   		    <div id="attso">ATTACKS<br>SO FAR<br>
- 		    <span class="total_progress">1</span></div>
+ 		    <span class="total_progress">185929</span></div>
  		    <div id="attreq">ATTACKS<br>REQUIRED<br>
- 		    102073</div>
+ 		    100000000</div>
 		</div>
 </div>
 

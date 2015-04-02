@@ -120,7 +120,7 @@
 }
 #action_response_kah	{
   position:absolute;
-  top:690px;
+  top:790px;
   left:0;
   width:100%;
   z-index:999;
@@ -144,11 +144,8 @@
 
 #action_response_kah.affirmative_response #action_response_box{
   background:rgba(0,0,0,0.85);
-  margin-top:60px;
   width:550px;
   height:inherit;
-  padding-bottom:10px;
-  
 }
 #action_response_kah.goal_accomplished #action_response_box{
   background:rgba(0,0,0,0.85);
