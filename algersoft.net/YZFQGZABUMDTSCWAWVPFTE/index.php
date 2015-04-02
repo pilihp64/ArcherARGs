@@ -42,6 +42,14 @@
 </script>
 
 </head>
+
+<!--
+
+HIS CLUE IS A LOCK TO LAY WASTE,
+ASSISTANCE IS NEEDED POST HASTE!
+
+-->
+
 <body> 
 <div class="main_menu_container">
         <ul id="main_menu">
