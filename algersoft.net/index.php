@@ -68,29 +68,13 @@ ASSISTANCE IS NEEDED POST HASTE!
 <br>
 <br>
 <br>
-<style>
-	#logo_glitch {
-	display: block;
-	width: 846px;
-	height: 180px;
-	background-image: url(worm/logo_glitch_2.png);
-	background-repeat: no-repeat;
-	margin: 0 auto;
-	position: relative;
-}
-</style>
-<div id="logo_glitch"></div><br>
+<div id="logo"></div>
+<!--<img src="/images/logo.png" width="846" height="180" alt="ALGERSOFT"/>--><br>
 <br>
 <br>
 <br>
 <br>
-<span id="tagline">934 ERROR. MAINFRAME MALFUNCTION.</span>
-<br>
-<img src="worm/worm.gif" width="800" height="400" alt="" loop=infinite/>
-<br><br><br><br>
- <audio autoplay loop>
-  <source src="worm/worm.mp3" type="audio/mpeg">
-</audio> 
+<span id="tagline">“WE DON'T ASK WHAT YOU'LL USE IT FOR”</span>
 </body>
 <!-- MADE IN GEORGIA :p -->
 </html>
