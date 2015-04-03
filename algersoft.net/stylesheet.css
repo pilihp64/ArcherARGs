@@ -63,7 +63,7 @@ body{
 	float:left;
 	list-style:none;
 	margin:0;
-	padding-right: 1.5em;
+	padding-right: 1.25em; /*HEY, HOW'S IT GOING?*/
 	position:relative;
 	right:50%;
 }
@@ -390,3 +390,4 @@ a {	text-decoration: none;
 	border: 5px solid rgba(255,0,0,1.00);
 	text-decoration: none;
 }
+	
