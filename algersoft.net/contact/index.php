@@ -59,6 +59,7 @@ ASSISTANCE IS NEEDED POST HASTE!
                                                 <li><a href="/expertise/">EXPERTISE</a></li>
                                                 <li><a href="/testimonial/">TESTIMONIAL</a></li>
                                                 <li><a href="/contact/">CONTACT</a></li>
+                                                <li><a href="/kriegerathome/">K@H</a></li>
                                                 <li><a href="/login/">LOG IN</a></li>
                                 </ul>
 </div><br>

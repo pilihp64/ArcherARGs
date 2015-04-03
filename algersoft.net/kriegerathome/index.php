@@ -6,24 +6,24 @@
 <meta name="keywords" content="SOFTWARE, HARDWARE, ROBOTICS, CYBORNETICS, CLONING, HOLOGRAPHY, DRUG THERAPY, TENTACLES, KRIEGERANDS">
 <meta name="author" content="Dr. Algernop Krieger">
 
-<meta property="og:title" content="Algersoft" />
-<meta property="og:image" content="http://algersoft.net/hero_facebook.jpg" />
-<meta property="og:description" content="We don't ask what you'll use it for. #ArcherFX" />
-<meta property="og:url" content="http://algersoft.net" />
+<meta property="og:title" content="Krieger@Home" />
+<meta property="og:image" content="http://algersoft.net/hero_kah_facebook.jpg" />
+<meta property="og:description" content="Together we can crack it wide open! #ArcherFX" />
+<meta property="og:url" content="http://algersoft.net/kriegerathome/" />
 
 <meta name="twitter:card" content="summary" />
 <meta name="twitter:site" content="@KriegerSignals" />
-<meta name="twitter:title" content="Algersoft" />
-<meta name="twitter:description" content="We don't ask what you'll use it for. #ArcherFX" />
-<meta name="twitter:image" content="http://algersoft.net/hero_twitter.jpg" />
-<meta name="twitter:url" content="http://algersoft.net" />
+<meta name="twitter:title" content="Krieger@Home" />
+<meta name="twitter:description" content="Together we can crack it wide open! #ArcherFX" />
+<meta name="twitter:image" content="http://algersoft.net/hero_kah_twitter.jpg" />
+<meta name="twitter:url" content="http://algersoft.net/kriegerathome/" />
 
 <meta name="viewport" content = "width = 900">
-<meta name="apple-mobile-web-app-title" content="Algersoft">
+<meta name="apple-mobile-web-app-title" content="Krieger@Home | Algersoft">
 
-<title>Algersoft</title>
+<title>Krieger@Home | Algersoft</title>
 
-<!-- MNZWFTXGKUDBRVAJMYJUCNKKW -->
+<!--MNZWFTXGKUDBRVAJMYJUCNKKW--!>
 
 <link rel="image_src" href="http://algersoft.net/hero_facebook.jpg" / >
 <link href="/stylesheet.css" rel="stylesheet" type="text/css">
@@ -42,21 +42,13 @@
 </script>
 
 </head>
-
-<!--
-
-HIS CLUE IS A LOCK TO LAY WASTE,
-ASSISTANCE IS NEEDED POST HASTE!
-
--->
-
 <body>  <link rel="stylesheet" href="kah.css" type="text/css" media="screen" title="no title" charset="utf-8">
   <script src="record_progress.js" type="text/javascript" charset="utf-8"></script>
   <script type="text/javascript" charset="utf-8">
 
     var target_goal = 1000000;
-    var total_progress = 225442;
-    var user_contribution = 406;
+    var total_progress = 356105;
+    var user_contribution = 662;
     var update_interval = 3000;
     var calibration_authentication = "#####################";
     
@@ -77,6 +69,7 @@ ASSISTANCE IS NEEDED POST HASTE!
                                                 <li><a href="/expertise/">EXPERTISE</a></li>
                                                 <li><a href="/testimonial/">TESTIMONIAL</a></li>
                                                 <li><a href="/contact/">CONTACT</a></li>
+                                                <li><a href="/kriegerathome/">K@H</a></li>
                                                 <li><a href="/login/">LOG IN</a></li>
                                 </ul>
 </div><br>
@@ -107,7 +100,7 @@ OUR EXPERIMENTAL ÜBERMIKROFON HAS DETECTED A HIGHLY COMPLEX SIGNAL NOT OF THIS 
 
 		<div id="main_kah">
 			<div id="anal">WAVEFORM ANALYSIS</div>
-    		<div id="per"><span class="percentage_update">22.54</span>% COMPLETE</div>
+    		<div id="per"><span class="percentage_update">35.61</span>% COMPLETE</div>
   	 		<div id="image_faded_kah">
           <div id="target_goal">
         
@@ -116,7 +109,7 @@ OUR EXPERIMENTAL ÜBERMIKROFON HAS DETECTED A HIGHLY COMPLEX SIGNAL NOT OF THIS 
           </div>
   	 		</div>
 			<div id="anal">SPECTROGRAM ANALYSIS</div>
- 		    <div id="per"><span class="percentage_update">22.54</span>% COMPLETE</div>
+ 		    <div id="per"><span class="percentage_update">35.61</span>% COMPLETE</div>
 		</div>
 
 		<div id="box_flip_kah">
@@ -124,7 +117,7 @@ OUR EXPERIMENTAL ÜBERMIKROFON HAS DETECTED A HIGHLY COMPLEX SIGNAL NOT OF THIS 
    			    <a id="worker_action"><span class="button">Calibrate</span></a>
    			  </div>
    			   		    <div id="attso">ATTACKS<br>SO FAR<br>
- 		    <span class="total_progress">225442</span></div>
+ 		    <span class="total_progress">356105</span></div>
  		    <div id="attreq">ATTACKS<br>REQUIRED<br>
  		    1000000</div>
 		</div>

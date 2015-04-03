@@ -2,26 +2,27 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<meta name="description" content="We don't ask what you'll use it for. #ArcherFX">
 <meta name="keywords" content="SOFTWARE, HARDWARE, ROBOTICS, CYBORNETICS, CLONING, HOLOGRAPHY, DRUG THERAPY, TENTACLES, KRIEGERANDS">
-<meta name="author" content="Dr. Algernop Krieger">
 
-<meta property="og:title" content="Algersoft" />
-<meta property="og:image" content="http://algersoft.net/hero_facebook.jpg" />
-<meta property="og:description" content="We don't ask what you'll use it for. #ArcherFX" />
-<meta property="og:url" content="http://algersoft.net" />
+<meta name="author" content="Dr. Algernop Krieger">
+<meta name="description" content="A video game featuring arson enthusiast Cheryl Tunt. #ArcherFX">
+
+<meta property="og:title" content="YOU'RE NOT MY SUPERVISOR!!">
+<meta property="og:image" content="http://algersoft.net/hero_ynms_facebook.jpg">
+<meta property="og:description" content="A video game featuring arson enthusiast Cheryl Tunt. #ArcherFX">
+<meta property="og:url" content="http://algersoft.net/login/krieger/projects/arson%20simulation.html" />
 
 <meta name="twitter:card" content="summary" />
 <meta name="twitter:site" content="@KriegerSignals" />
-<meta name="twitter:title" content="Algersoft" />
-<meta name="twitter:description" content="We don't ask what you'll use it for. #ArcherFX" />
-<meta name="twitter:image" content="http://algersoft.net/hero_twitter.jpg" />
-<meta name="twitter:url" content="http://algersoft.net" />
+<meta name="twitter:title" content="YOU'RE NOT MY SUPERVISOR!!" />
+<meta name="twitter:description" content="A video game featuring arson enthusiast Cheryl Tunt. #ArcherFX" />
+<meta name="twitter:image" content="http://algersoft.net/hero_ynms_twitter.jpg" />
+<meta name="twitter:url" content="http://algersoft.net/login/krieger/projects/arson%20simulation.html" />
 
 <meta name="viewport" content = "width = 900">
 <meta name="apple-mobile-web-app-title" content="Algersoft">
 
-<title>Algersoft</title>
+<title>YOU'RE NOT MY SUPERVISOR!! | Algersoft</title>
 
 <!-- MNZWFTXGKUDBRVAJMYJUCNKKW -->
 
@@ -59,6 +60,7 @@ ASSISTANCE IS NEEDED POST HASTE!
                                                 <li><a href="/expertise/">EXPERTISE</a></li>
                                                 <li><a href="/testimonial/">TESTIMONIAL</a></li>
                                                 <li><a href="/contact/">CONTACT</a></li>
+                                                <li><a href="/kriegerathome/">K@H</a></li>
                                                 <li><a href="/login/">LOG IN</a></li>
                                 </ul>
 </div><br>

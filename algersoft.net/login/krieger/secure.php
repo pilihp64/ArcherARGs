@@ -35,7 +35,7 @@
 	</a>
 </div><div class='sub' data-folder="krieger/projects"><div class="block"><a href="krieger/projects/arson simulation.php" class="php">	<div class="img php">&nbsp;</div>	<div class="name">
 		<div class="file">arson simulation</div>
-		<div class="date">182 B</div>
+		<div class="date">173 B</div>
 	</div>
 	</a>
 </div></div><div class="block"><a href="krieger/research" class="dir">	<div class="img dir">&nbsp;</div>	<div class="name">
@@ -1095,7 +1095,7 @@
 	</a>
 </div><div class='sub' data-folder="krieger/surveillance"><div class="block"><a href="krieger/surveillance/kr-cam viewer v2.8.php" class="php">	<div class="img php">&nbsp;</div>	<div class="name">
 		<div class="file">kr-cam viewer v2.8</div>
-		<div class="date">184 B</div>
+		<div class="date">175 B</div>
 	</div>
 	</a>
 </div><div class="block"><a href="krieger/surveillance/reconnaissance.php" class="php">	<div class="img php">&nbsp;</div>	<div class="name">
