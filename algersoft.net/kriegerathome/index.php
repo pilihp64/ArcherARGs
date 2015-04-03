@@ -54,10 +54,11 @@ ASSISTANCE IS NEEDED POST HASTE!
   <script src="record_progress.js" type="text/javascript" charset="utf-8"></script>
   <script type="text/javascript" charset="utf-8">
 
-    var target_goal = 100000000;
-    var total_progress = 185929;
-    var user_contribution = 68;
+    var target_goal = 1000000;
+    var total_progress = 225442;
+    var user_contribution = 406;
     var update_interval = 3000;
+    var calibration_authentication = "#####################";
     
     // START SCRIPT AFTER PAGE FINISHES LOADING
     $(document).ready(function(){
@@ -102,11 +103,11 @@ ASSISTANCE IS NEEDED POST HASTE!
 </div>
 <div id="box_kah" class="task_active">
 		<div id="box_text_kah">
-OUR EXPERIMENTAL ÜBERMIKROFON HAS DETECTED A HIGHLY COMPLEX SIGNAL NOT OF THIS WORLD, ENCRYPTED USING AN ADVANCED ALIEN CIPHER. HOWEVER, IF WE POOL OUR RESOURCES INTO A VAST BRUTE FORCE ATTACK… TOGETHER WE CAN CRACK IT WIDE OPEN! <p style="color:red">- WARNING! TIME LIMIT CIRCUMVENTION DETECTED</br>- TEMPORARILY INCREASING ATTACK REQUIREMENTS</p></div>
+OUR EXPERIMENTAL ÜBERMIKROFON HAS DETECTED A HIGHLY COMPLEX SIGNAL NOT OF THIS WORLD, ENCRYPTED USING AN ADVANCED ALIEN CIPHER. HOWEVER, IF WE POOL OUR RESOURCES INTO A VAST BRUTE FORCE ATTACK… TOGETHER WE CAN CRACK IT WIDE OPEN!</div>
 
 		<div id="main_kah">
 			<div id="anal">WAVEFORM ANALYSIS</div>
-    		<div id="per"><span class="percentage_update">0.19</span>% COMPLETE</div>
+    		<div id="per"><span class="percentage_update">22.54</span>% COMPLETE</div>
   	 		<div id="image_faded_kah">
           <div id="target_goal">
         
@@ -115,17 +116,17 @@ OUR EXPERIMENTAL ÜBERMIKROFON HAS DETECTED A HIGHLY COMPLEX SIGNAL NOT OF THIS 
           </div>
   	 		</div>
 			<div id="anal">SPECTROGRAM ANALYSIS</div>
- 		    <div id="per"><span class="percentage_update">0.19</span>% COMPLETE</div>
+ 		    <div id="per"><span class="percentage_update">22.54</span>% COMPLETE</div>
 		</div>
 
 		<div id="box_flip_kah">
-			    			    <div id="button_container_kah">
-   			    <a id="worker_action"><span class="button">Attack!</span></a>
+			    			    <div id="button_container_kah" class="calibrate">
+   			    <a id="worker_action"><span class="button">Calibrate</span></a>
    			  </div>
    			   		    <div id="attso">ATTACKS<br>SO FAR<br>
- 		    <span class="total_progress">185929</span></div>
+ 		    <span class="total_progress">225442</span></div>
  		    <div id="attreq">ATTACKS<br>REQUIRED<br>
- 		    100000000</div>
+ 		    1000000</div>
 		</div>
 </div>
 

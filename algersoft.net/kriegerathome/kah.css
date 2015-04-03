@@ -120,7 +120,7 @@
 }
 #action_response_kah	{
   position:absolute;
-  top:790px;
+  top:690px;
   left:0;
   width:100%;
   z-index:999;
@@ -130,30 +130,33 @@
 }
 
 #action_response_kah #action_response_box{
-  width:500px;
+  width:550px;
   padding-top:10px;
-  padding-bottom:25px;
+  padding-bottom:20px;
   padding-left:20px;
   padding-right:20px;
   margin:auto;
   color:rgb(255,0,0);
-  background:rgba(0,0,0,0.75);
+  background:rgba(0,0,0,0.85);
   border-style: solid;
   border-width: 10px;
 }
 
 #action_response_kah.affirmative_response #action_response_box{
   background:rgba(0,0,0,0.85);
-  width:550px;
+  margin-top:25px;
   height:inherit;
 }
 #action_response_kah.goal_accomplished #action_response_box{
   background:rgba(0,0,0,0.85);
+  margin-top:55px;
   height:inherit;
 }
-
+#action_response_kah.goal_accomplished #action_response_box h1{
+  margin-bottom:15px;
+}
 #action_response_kah.negative_response #action_response_box{
-  background:rgba(0,0,0,0.70);
+  background:rgba(0,0,0,0.75);
   height:inherit;
 }
 
@@ -174,23 +177,22 @@
 #button_container_kah.action_complete{
   width:250px;
 }
-
-.task_inactive #worker_action{
-  opacity:.35;
+#button_container_kah.calibrate{
+  width:260px;
 }
-.task_inactive #worker_action .button:hover{
-	color: #003c00;
-	background: -moz-linear-gradient(top,  rgba(0,0,0,0) 0%, rgba(0,0,0,0.5) 100%); /* FF3.6+ */
-	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,rgba(0,0,0,0)), color-stop(100%,rgba(0,0,0,0.5))); /* Chrome,Safari4+ */
-	background: -webkit-linear-gradient(top,  rgba(0,0,0,0) 0%,rgba(0,0,0,0.5) 100%); /* Chrome10+,Safari5.1+ */
-	background: -o-linear-gradient(top,  rgba(0,0,0,0) 0%,rgba(0,0,0,0.5) 100%); /* Opera 11.10+ */
-	background: -ms-linear-gradient(top,  rgba(0,0,0,0) 0%,rgba(0,0,0,0.5) 100%); /* IE10+ */
-	background: linear-gradient(to bottom,  rgba(0,0,0,0) 0%,rgba(0,0,0,0.5) 100%); /* W3C */
-	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#00000000', endColorstr='#80000000',GradientType=0 ); /* IE6-9 */
-	background-color: #00FF00;
-	border: thick solid rgba(0,255,0,1.00);
+#button_container_kah.countdown{
+  width:150px;
 }
-.task_inactive > *{
+#button_container_kah.countdown #worker_action .button, #button_container_kah.countdown #worker_action .button:hover{
+  color:rgb(255,0,0);
+  background:rgba(0,0,0,0.75);
+  border-style: solid;
+  border-color:rgb(255,0,0);
+}
+#button_container_kah.attack{
+  width:200px;
+}
+.task_inactive #box_text_kah, .task_inactive #main_kah{
   opacity:.25;
 }
 
