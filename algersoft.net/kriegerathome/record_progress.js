@@ -1,7 +1,7 @@
 var target_goal = 100000;
 var total_progress = 0;
 var user_contribution = 0;
-var update_interval = 3000;
+var update_interval = 5000;
 var first_run = true;
 var time_remaining = 0;
 var calibration_authentication = false;
@@ -158,8 +158,10 @@ function update_clock(){
 }
 
 function update_totals(){
-  $('.total_progress').load('get_totals.php', function(str){
-    total_progress = parseInt(str);
+  $('.total_progress').load('get_totals.php', function(str, status){
+    if(status=="success"){
+      total_progress = parseInt(str);
+    }
     update_progress_bar();
   });
   user_contribution += 1;
