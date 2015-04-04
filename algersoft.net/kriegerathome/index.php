@@ -6,22 +6,22 @@
 <meta name="keywords" content="SOFTWARE, HARDWARE, ROBOTICS, CYBORNETICS, CLONING, HOLOGRAPHY, DRUG THERAPY, TENTACLES, KRIEGERANDS">
 <meta name="author" content="Dr. Algernop Krieger">
 
-<meta property="og:title" content="Algersoft" />
-<meta property="og:image" content="http://algersoft.net/hero_facebook.jpg" />
-<meta property="og:description" content="We don't ask what you'll use it for. #ArcherFX" />
-<meta property="og:url" content="http://algersoft.net" />
+<meta property="og:title" content="Krieger@Home" />
+<meta property="og:image" content="http://algersoft.net/hero_kah_facebook.jpg" />
+<meta property="og:description" content="Together we can crack it wide open! #ArcherFX" />
+<meta property="og:url" content="http://algersoft.net/kriegerathome/index.php" />
 
 <meta name="twitter:card" content="summary" />
 <meta name="twitter:site" content="@KriegerSignals" />
-<meta name="twitter:title" content="Algersoft" />
-<meta name="twitter:description" content="We don't ask what you'll use it for. #ArcherFX" />
-<meta name="twitter:image" content="http://algersoft.net/hero_twitter.jpg" />
-<meta name="twitter:url" content="http://algersoft.net" />
+<meta name="twitter:title" content="Krieger@Home" />
+<meta name="twitter:description" content="Together we can crack it wide open! #ArcherFX" />
+<meta name="twitter:image" content="http://algersoft.net/hero_kah_twitter.jpg" />
+<meta name="twitter:url" content="http://algersoft.net/kriegerathome/index.php" />
 
 <meta name="viewport" content = "width = 900">
-<meta name="apple-mobile-web-app-title" content="Algersoft">
+<meta name="apple-mobile-web-app-title" content="Krieger@Home | Algersoft">
 
-<title>Algersoft</title>
+<title>Krieger@Home | Algersoft</title>
 
 <!-- MNZWFTXGKUDBRVAJMYJUCNKKW -->
 
@@ -42,32 +42,7 @@
 </script>
 
 </head>
-
-<!--
-
-HIS CLUE IS A LOCK TO LAY WASTE,
-ASSISTANCE IS NEEDED POST HASTE!
-
--->
-
 <body>  <link rel="stylesheet" href="kah.css" type="text/css" media="screen" title="no title" charset="utf-8">
-  <script src="record_progress.js" type="text/javascript" charset="utf-8"></script>
-  <script type="text/javascript" charset="utf-8">
-
-    var target_goal = 1000000;
-    var total_progress = 859289;
-    var user_contribution = 662;
-    var update_interval = 5000;
-    var calibration_authentication = "####################";
-    
-    // START SCRIPT AFTER PAGE FINISHES LOADING
-    $(document).ready(function(){
-      
-      load_tasks();
-    
-    });
-  
-  </script>
  
 <div class="main_menu_container">
         <ul id="main_menu">
@@ -108,8 +83,8 @@ OUR EXPERIMENTAL ÜBERMIKROFON HAS DETECTED A HIGHLY COMPLEX SIGNAL NOT OF THIS 
 
 		<div id="main_kah">
 			<div id="anal">WAVEFORM ANALYSIS</div>
-    		<div id="per"><span class="percentage_update">85.93</span>% COMPLETE</div>
-  	 		<div id="image_faded_kah">
+    		<div id="per"><span class="percentage_update"></span>100% COMPLETE</div>
+  	 		<div id="image_kah">
           <div id="target_goal">
         
             <div id="current_progress"></div>
@@ -117,17 +92,19 @@ OUR EXPERIMENTAL ÜBERMIKROFON HAS DETECTED A HIGHLY COMPLEX SIGNAL NOT OF THIS 
           </div>
   	 		</div>
 			<div id="anal">SPECTROGRAM ANALYSIS</div>
- 		    <div id="per"><span class="percentage_update">85.93</span>% COMPLETE</div>
+ 		    <div id="per"><span class="percentage_update"></span>100% COMPLETE</div>
 		</div>
 
 		<div id="box_flip_kah">
-			    			    <div id="button_container_kah" class="calibrate">
-   			    <a id="worker_action"><span class="button">Calibrate</span></a>
+			    
+			    <div id="button_container_kah" class="action_complete">
+   			    <a href="wow_signal.wav"><span class="button">SUCCESS!</span></a>
    			  </div>
-   			   		    <div id="attso">ATTACKS<br>SO FAR<br>
- 		    <span class="total_progress">859289</span></div>
- 		    <div id="attreq">ATTACKS<br>REQUIRED<br>
- 		    1000000</div>
+   			 
+ 		    <div id="attso">ATTACKS<br>SO FAR<br>1,000,000 
+ 		    <span class="total_progress"></span></div>
+ 		    <div id="attreq">ATTACKS<br>REQUIRED<br>1,000,000
+ 		    </div>
 		</div>
 </div>
 <br>

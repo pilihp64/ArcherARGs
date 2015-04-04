@@ -47,13 +47,13 @@
 	margin-right: auto;
 }
 
-#image_faded_kah {
+#image_kah {
 	width: 760px;
 	height: 320px;
 	display: block;
 	margin-left: auto;
 	margin-right: auto;
-	background-image: url(../audio_image_faded.png);
+	background-image: url(../audio_image_success.png);
 	background-repeat: no-repeat;
 	position:relative;
 	margin-bottom:13px;
@@ -130,33 +130,30 @@
 }
 
 #action_response_kah #action_response_box{
-  width:550px;
+  width:500px;
   padding-top:10px;
-  padding-bottom:20px;
+  padding-bottom:25px;
   padding-left:20px;
   padding-right:20px;
   margin:auto;
   color:rgb(255,0,0);
-  background:rgba(0,0,0,0.85);
+  background:rgba(0,0,0,0.75);
   border-style: solid;
   border-width: 10px;
 }
 
 #action_response_kah.affirmative_response #action_response_box{
   background:rgba(0,0,0,0.85);
-  margin-top:25px;
+  width:550px;
   height:inherit;
 }
 #action_response_kah.goal_accomplished #action_response_box{
   background:rgba(0,0,0,0.85);
-  margin-top:55px;
   height:inherit;
 }
-#action_response_kah.goal_accomplished #action_response_box h1{
-  margin-bottom:15px;
-}
+
 #action_response_kah.negative_response #action_response_box{
-  background:rgba(0,0,0,0.75);
+  background:rgba(0,0,0,0.70);
   height:inherit;
 }
 
@@ -177,22 +174,23 @@
 #button_container_kah.action_complete{
   width:250px;
 }
-#button_container_kah.calibrate{
-  width:260px;
+
+.task_inactive #worker_action{
+  opacity:.35;
 }
-#button_container_kah.countdown{
-  width:150px;
+.task_inactive #worker_action .button:hover{
+	color: #003c00;
+	background: -moz-linear-gradient(top,  rgba(0,0,0,0) 0%, rgba(0,0,0,0.5) 100%); /* FF3.6+ */
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,rgba(0,0,0,0)), color-stop(100%,rgba(0,0,0,0.5))); /* Chrome,Safari4+ */
+	background: -webkit-linear-gradient(top,  rgba(0,0,0,0) 0%,rgba(0,0,0,0.5) 100%); /* Chrome10+,Safari5.1+ */
+	background: -o-linear-gradient(top,  rgba(0,0,0,0) 0%,rgba(0,0,0,0.5) 100%); /* Opera 11.10+ */
+	background: -ms-linear-gradient(top,  rgba(0,0,0,0) 0%,rgba(0,0,0,0.5) 100%); /* IE10+ */
+	background: linear-gradient(to bottom,  rgba(0,0,0,0) 0%,rgba(0,0,0,0.5) 100%); /* W3C */
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#00000000', endColorstr='#80000000',GradientType=0 ); /* IE6-9 */
+	background-color: #00FF00;
+	border: thick solid rgba(0,255,0,1.00);
 }
-#button_container_kah.countdown #worker_action .button, #button_container_kah.countdown #worker_action .button:hover{
-  color:rgb(255,0,0);
-  background:rgba(0,0,0,0.75);
-  border-style: solid;
-  border-color:rgb(255,0,0);
-}
-#button_container_kah.attack{
-  width:200px;
-}
-.task_inactive #box_text_kah, .task_inactive #main_kah{
+.task_inactive > *{
   opacity:.25;
 }
 
