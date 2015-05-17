@@ -1115,7 +1115,7 @@
 	</a>
 </div><div class='sub' data-folder="krieger/tones/iphone"><div class="block"><a href="krieger/tones/iphone/Mulatto Butts.m4r" class="m4r">	<div class="img m4r">&nbsp;</div>	<div class="name">
 		<div class="file">Mulatto Butts.m4r</div>
-		<div class="date">1.52 MB</div>
+		<div class="date">1.41 MB</div>
 	</div>
 	</a>
 </div><div class="block"><a href="krieger/tones/iphone/Mulatto Cops.m4r" class="m4r">	<div class="img m4r">&nbsp;</div>	<div class="name">
@@ -1125,7 +1125,7 @@
 	</a>
 </div><div class="block"><a href="krieger/tones/iphone/Teutonic Butts.m4r" class="m4r">	<div class="img m4r">&nbsp;</div>	<div class="name">
 		<div class="file">Teutonic Butts.m4r</div>
-		<div class="date">1.51 MB</div>
+		<div class="date">1.4 MB</div>
 	</div>
 	</a>
 </div></div><div class="block"><a href="krieger/tones/not iphone" class="dir">	<div class="img dir">&nbsp;</div>	<div class="name">
@@ -1135,7 +1135,7 @@
 	</a>
 </div><div class='sub' data-folder="krieger/tones/not iphone"><div class="block"><a href="krieger/tones/not iphone/Mulatto Butts.mp3" class="mp3">	<div class="img mp3">&nbsp;</div>	<div class="name">
 		<div class="file">Mulatto Butts.mp3</div>
-		<div class="date">1.12 MB</div>
+		<div class="date">886.15 KB</div>
 	</div>
 	</a>
 </div><div class="block"><a href="krieger/tones/not iphone/Mulatto Cops.mp3" class="mp3">	<div class="img mp3">&nbsp;</div>	<div class="name">
@@ -1145,7 +1145,7 @@
 	</a>
 </div><div class="block"><a href="krieger/tones/not iphone/Teutonic Butts.mp3" class="mp3">	<div class="img mp3">&nbsp;</div>	<div class="name">
 		<div class="file">Teutonic Butts.mp3</div>
-		<div class="date">1.11 MB</div>
+		<div class="date">886.16 KB</div>
 	</div>
 	</a>
 </div></div></div><div class="block"><a href="krieger/insurance.zip" class="zip">	<div class="img zip">&nbsp;</div>	<div class="name">
