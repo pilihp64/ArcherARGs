@@ -23,7 +23,7 @@
 
 <title>Algersoft</title>
 
-<!--MNZWFTXGKUDBRVAJMYJUCNKKW--!>
+<!--MNZWFTXGKUDBRVAJMYJUCNKKW -->
 
 <link rel="image_src" href="http://algersoft.net/hero_facebook.jpg" / >
 <link href="/stylesheet.css" rel="stylesheet" type="text/css">
