@@ -23,7 +23,7 @@
 
 <title>Algersoft</title>
 
-<!--MNZWFTXGKUDBRVAJMYJUCNKKW -->
+<!-- MNZWFTXGKUDBRVAJMYJUCNKKW -->
 
 <link rel="image_src" href="http://algersoft.net/hero_facebook.jpg" / >
 <link href="/stylesheet.css" rel="stylesheet" type="text/css">
@@ -42,6 +42,14 @@
 </script>
 
 </head>
+
+<!--
+
+HIS CLUE IS A LOCK TO LAY WASTE,
+ASSISTANCE IS NEEDED POST HASTE!
+
+-->
+
 <body> 
 <div class="main_menu_container">
         <ul id="main_menu">
@@ -51,6 +59,7 @@
                                                 <li><a href="/expertise/">EXPERTISE</a></li>
                                                 <li><a href="/testimonial/">TESTIMONIAL</a></li>
                                                 <li><a href="/contact/">CONTACT</a></li>
+                                                <li><a href="/kriegerathome/">K@H</a></li>
                                                 <li><a href="/login/">LOG IN</a></li>
                                 </ul>
 </div><br>
