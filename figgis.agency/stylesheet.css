@@ -1,0 +1,464 @@
+body{
+	color: #FFFFFF;
+	font-family: 'Realpolitik';
+	text-transform: uppercase;
+	margin: 0 auto;
+	position: relative;
+	text-align: center;
+	text-decoration: none;
+	background: url(/images/print.png) top center / 1024px 1024px no-repeat, -moz-radial-gradient(center, ellipse cover,  rgba(0,0,0,0) 0%, rgba(20,20,20,1) 100%); /* FF3.6-15 */
+	background: url(/images/print.png) top center / 1024px 1024px no-repeat, -webkit-radial-gradient(center, ellipse cover,  rgba(0,0,0,0) 0%,rgba(20,20,20,1) 100%); /* Chrome10-25,Safari5.1-6 */
+	background: url(/images/print.png) top center / 1024px 1024px no-repeat, radial-gradient(ellipse at center,  rgba(0,0,0,0) 0%,rgba(20,20,20,1) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#00000000', endColorstr='#141414',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */
+	background-color: #575757;
+	background-attachment: fixed;	
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5),
+	only screen and (-o-min-device-pixel-ratio: 3/2),
+	only screen and (min--moz-device-pixel-ratio: 1.5),
+	only screen and (min-device-pixel-ratio: 1.5) {
+		body {
+			color: #FFFFFF;
+			font-family: 'Realpolitik';
+			text-transform: uppercase;
+			margin: 0 auto;
+			position: relative;
+			text-align: center;
+			text-decoration: none;
+			background: url(/images/print@2x.png) top center / 1024px 1024px no-repeat, -moz-radial-gradient(center, ellipse cover,  rgba(0,0,0,0) 0%, rgba(20,20,20,1) 100%); /* FF3.6-15 */
+			background: url(/images/print@2x.png) top center / 1024px 1024px no-repeat, -webkit-radial-gradient(center, ellipse cover,  rgba(0,0,0,0) 0%,rgba(20,20,20,1) 100%); /* Chrome10-25,Safari5.1-6 */
+			background: url(/images/print@2x.png) top center / 1024px 1024px no-repeat, radial-gradient(ellipse at center,  rgba(0,0,0,0) 0%,rgba(20,20,20,1) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+			filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#00000000', endColorstr='#141414',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */
+			background-color: #575757;
+			background-attachment: fixed;}	
+}
+
+
+
+
+@font-face {
+	font-family: 'Realpolitik';
+	src:url('font/Realpolitik.ttf.woff') format('woff'),
+	url('font/Realpolitik.ttf.svg#Realpolitik') format('svg'),
+	url('font/Realpolitik.ttf.eot'),
+	url('font/Realpolitik.ttf.eot?#iefix') format('embedded-opentype'); 
+	font-weight: normal;
+	font-style: normal;
+}
+
+#tagline {
+    font-size: 200%;
+}
+
+/*MENU*/
+
+.main_menu_container{
+	float:left;
+	width:100%;
+	height: 3em;
+	background:#fff;
+	overflow:hidden;
+	position:relative;
+	background-color: rgba(0, 0, 0, .5);
+}
+
+#main_menu {
+	font-size: 130%;
+	clear: left;
+	float: left;
+	list-style: none;
+	margin: 0;
+	padding-top: 0.6em;
+	padding-right: 0;
+	padding-left: 0;
+	padding-bottom: 0;
+	position: relative;
+	left: 50%;
+	text-align: center;
+}
+
+#main_menu li {
+	display:block;
+	float:left;
+	list-style:none;
+	margin:0;
+	padding-right: 1.5em;
+	position:relative;
+	right:50%;
+}
+
+#main_menu li a {
+	text-decoration: none;
+	float: left;
+	color: #707070;
+}
+
+#main_menu li a:hover {
+	color: #FFFFFF;
+}
+
+#main_menu .active {
+	color: #FFFFFF;
+}
+
+/*LOGO*/
+
+#logo {
+	display: block;
+	width: 850px;
+	height: 380px;
+	background-image: url(images/logo.png);
+	background-repeat: no-repeat;
+	margin: 0 auto;
+	position: relative;
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5),
+	only screen and (-o-min-device-pixel-ratio: 3/2),
+	only screen and (min--moz-device-pixel-ratio: 1.5),
+	only screen and (min-device-pixel-ratio: 1.5) {
+		#logo {
+		display: block;
+		background-image:url(images/logo@2x.png);
+		background-size:850px 380px;
+		background-repeat: no-repeat;
+		margin: 0 auto;
+		position: relative}
+}
+
+/*TEXT BOX*/
+
+#box_title {
+	padding-left: 40px;
+	padding-right: 40px;
+	font-size: 2em;
+	color: #606060;
+	border-bottom: 60px solid #FFFFFF;
+	border-right: 60px solid transparent;
+	height: 0;
+	display: block;
+	float: left;
+	line-height: 1.8em;
+}
+
+#box_title_container {
+	margin-left: auto;
+	margin-right: auto;
+	width: 725px;
+	height: 60px;
+	display: block;
+	padding: 0;
+	box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+	border-bottom: 20px solid #FFFFFF;
+}
+
+#box {
+	width:725px;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	text-align:left;
+	background: -moz-linear-gradient(top,  rgba(0,0,0,0) 0%, rgba(20,20,20,1) 100%); /* FF3.6+ */
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,rgba(0,0,0,0)), color-stop(100%,rgba(20,20,20,1))); /* Chrome,Safari4+ */
+	background: -webkit-linear-gradient(top,  rgba(0,0,0,0) 0%,rgba(20,20,20,1) 100%); /* Chrome10+,Safari5.1+ */
+	background: -o-linear-gradient(top,  rgba(0,0,0,0) 0%,rgba(20,20,20,1) 100%); /* Opera 11.10+ */
+	background: -ms-linear-gradient(top,  rgba(0,0,0,0) 0%,rgba(20,20,20,1) 100%); /* IE10+ */
+	background: linear-gradient(to bottom,  rgba(0,0,0,0) 0%,rgba(20,20,20,1) 100%); /* W3C */
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#00000000', endColorstr='#141414',GradientType=0 ); /* IE6-9 */
+}
+
+#box_text {
+	font-size: 130%;	
+	line-height: 1.5em;
+	padding-top: 20px;
+	padding-right: 29px;
+	padding-left: 40px;
+	padding-bottom: 20px;
+}
+
+/*LOG IN FORM*/
+
+.sticky {
+	left: 4em;
+	position: absolute;
+	top: 37em;
+	z-index: 1;
+}
+.sticky.hidden {
+	display: none;
+}
+.login {
+	margin: 0 auto;
+	width: 90%;
+	height: 400px;
+}
+.fehlschlagen {
+	animation: shake 0.82s cubic-bezier(.36,.07,.19,.97) both;
+	  transform: translate3d(0, 0, 0);
+	  backface-visibility: hidden;
+	  perspective: 1000px;
+}
+
+@keyframes shake {
+  10%, 90% {
+    transform: translate3d(-1px, 0, 0);
+  }
+  
+  20%, 80% {
+    transform: translate3d(2px, 0, 0);
+  }
+
+  30%, 50%, 70% {
+    transform: translate3d(-4px, 0, 0);
+  }
+
+  40%, 60% {
+    transform: translate3d(4px, 0, 0);
+  }
+}
+.field_title {
+	font-size: 2em;
+	display: block;
+	margin-bottom: 0.5em;
+	margin-top: 1em;
+	margin-right: auto;
+	margin-left: auto;	
+}
+
+input {
+	color: #FF0000;
+	border: thick solid rgba(255,255,255,1.00);
+	background: -moz-linear-gradient(top,  rgba(0,0,0,0.65) 0%, rgba(0,0,0,0) 100%); /* FF3.6+ */
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,rgba(0,0,0,0.65)), color-stop(100%,rgba(0,0,0,0))); /* Chrome,Safari4+ */
+	background: -webkit-linear-gradient(top,  rgba(0,0,0,0.65) 0%,rgba(0,0,0,0) 100%); /* Chrome10+,Safari5.1+ */
+	background: -o-linear-gradient(top,  rgba(0,0,0,0.65) 0%,rgba(0,0,0,0) 100%); /* Opera 11.10+ */
+	background: -ms-linear-gradient(top,  rgba(0,0,0,0.65) 0%,rgba(0,0,0,0) 100%); /* IE10+ */
+	background: linear-gradient(to bottom,  rgba(0,0,0,0.65) 0%,rgba(0,0,0,0) 100%); /* W3C */
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#a6000000', endColorstr='#00000000',GradientType=0 ); /* IE6-9 */
+}
+
+input[type = "text"] {
+	font-family: 'Realpolitik';
+	text-align:center;
+	color: #FF0000;
+	font-size: 2em;
+	width: 10em;
+	height: 2em;
+	text-transform: uppercase;
+	display: block;
+	margin-right: auto;
+	margin-left: auto;
+	margin-bottom: 0;	
+}
+
+input[type = "password"] {
+	font-family: 'Realpolitik';
+	text-align:center;
+	color: #FF0000;
+	font-size: 2em;
+	width: 10em;
+	height: 2em;
+	text-transform: uppercase;
+	display: block;
+	margin-right: auto;
+	margin-left: auto;
+	margin-bottom: 0;
+}
+
+input[type = "submit"] {
+	font-family: 'Realpolitik';
+	color: #000000;
+	background: -moz-linear-gradient(top,  rgba(0,0,0,0) 0%, rgba(0,0,0,0.5) 100%); /* FF3.6+ */
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,rgba(0,0,0,0)), color-stop(100%,rgba(0,0,0,0.5))); /* Chrome,Safari4+ */
+	background: -webkit-linear-gradient(top,  rgba(0,0,0,0) 0%,rgba(0,0,0,0.5) 100%); /* Chrome10+,Safari5.1+ */
+	background: -o-linear-gradient(top,  rgba(0,0,0,0) 0%,rgba(0,0,0,0.5) 100%); /* Opera 11.10+ */
+	background: -ms-linear-gradient(top,  rgba(0,0,0,0) 0%,rgba(0,0,0,0.5) 100%); /* IE10+ */
+	background: linear-gradient(to bottom,  rgba(0,0,0,0) 0%,rgba(0,0,0,0.5) 100%); /* W3C */
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#00000000', endColorstr='#80000000',GradientType=0 ); /* IE6-9 */
+	background-color: #FFFFFF;
+	font-size: 2em;
+	width: auto;
+	height: 2em;
+	display: block;
+	margin-top: 50px;
+	margin-right: auto;
+	margin-left: auto;
+	margin-bottom: 0;
+	padding-left:1em;
+	padding-right:1em;
+}
+	
+input[type = "submit"]:hover {
+	background-color: red;
+	border: thick solid rgba(255,0,0,1.00);
+}
+
+button {
+	border: thick solid rgba(255,255,255,1.00);
+	color: #000000;
+	background-color: #FFFFFF;
+	font-size: 2em;
+	width: auto;
+	height: 2em;
+	display: block;
+	margin-top: 50px;
+	margin-right: auto;
+	margin-left: auto;
+	margin-bottom: 0;	
+	line-height:2em;
+	}
+	
+button:hover {
+	background-color: red;
+	border: thick solid rgba(255,0,0,1.00);
+}
+
+.declined {
+	padding-top:1.5em;
+	color: #FF0000;
+	font-size: 3em;
+	line-height: 2em;
+}
+
+/*DIRECTORY STUFF*/
+
+/**, *:before, *:after { 
+	-moz-box-sizing: border-box; 
+	-webkit-box-sizing: border-box; 
+	box-sizing: border-box; }*/
+.wrap {
+	max-width: 43em;
+	margin: 0 auto;
+	background-color: rgba(0,0,0,0.25);
+	margin-bottom:5em;
+	}
+@media only screen and (max-width: 700px) { .wrap { padding: 15px; } }
+.note { 
+	padding:  0 5px 25px 0; 
+	font-size:100%; 
+	color: #666; 
+	line-height: 18px; 
+}
+.block { 
+	text-transform: uppercase;
+	text-align:left;
+	text-indent:8px;
+	clear: both;  
+	min-height: 50px; 
+	border-top: solid 5px rgba(0,0,0,0.2); 
+	font-size: 1.5em;
+}
+.block:first-child { 
+	border: none; 
+}
+.block .img {
+	width: 50px;
+	height: 50px;
+	display: block;
+	float: left;
+	margin-right: 10px;
+	background: transparent url(../../images/icons.png) no-repeat 0 0 / 1000px 50px;
+	margin-top: 0px;
+}
+.block .date {
+	margin-top: 4px;
+	font-size: 100%;
+	color: rgba(255,255,255,0.4); 
+}
+.block a {
+	display: block;
+	padding-top: 15px;
+	padding-right: 15px;
+	padding-left: 20px;
+	padding-bottom: 15px;
+	transition: all 0.35s;
+	text-decoration:none;
+	color: #FFFFFF;
+}
+.block a:hover {
+	color: #FFFFFF;
+	background-color: #B40000;
+	text-decoration: none;
+}
+		
+.jpg, .JPG, .jpeg, .JPEG, .gif, .GIF, .png, .PNG { background-position: -50px 0 !important; } 
+.pdf, .PDF { background-position: -100px 0 !important; }  
+.txt, .rtf, .TXT, .RTF { background-position: -150px 0 !important; }
+.xls, .xlsx { background-position: -200px 0 !important; } 
+.ppt, .pptx { background-position: -250px 0 !important; } 
+.doc, .docx { background-position: -300px 0 !important; }
+.zip, .ZIP, .rar, .tar, .gzip { background-position: -350px 0 !important; }
+.swf { background-position: -400px 0 !important; } 
+.fla { background-position: -450px 0 !important; }
+.mp3, .MP3, .m4r { background-position: -500px 0 !important; }
+.wav { background-position: -550px 0 !important; }
+.mp4 { background-position: -600px 0 !important; }
+.mov, .aiff, .m2v, .avi, .pict, .qif { background-position: -650px 0 !important; }
+.wmv, .avi, .mpg { background-position: -700px 0 !important; }
+.flv, .f2v { background-position: -750px 0 !important; }
+.psd { background-position: -800px 0 !important; }
+.ai { background-position: -850px 0 !important; }
+.html, .xhtml, .dhtml, .php, .asp, .css, .js, .inc { background-position: -200px 0 !important; }
+.dir { background-position: -950px 0 !important; }		
+.sub { margin-left: 30px; border-left: none; display: none; }
+
+/* KRIEGCAM */
+.link a{
+	color:#02A302;
+	text-decoration:none
+}
+
+.footer {
+	position: fixed;
+    bottom: 0;
+    width: 100%;
+	margin-bottom:10px;
+}
+
+a {	text-decoration: none;
+}
+
+.button_container {
+	display:block;
+	width: 200px;
+	margin: 0 auto;
+	text-decoration: none;
+	margin-top:50px;
+}
+
+.button {
+	text-decoration: none;
+	font-family: 'Realpolitik';
+	color: #000000;
+	background: -moz-linear-gradient(top,  rgba(0,0,0,0) 0%, rgba(0,0,0,0.5) 100%); /* FF3.6+ */
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,rgba(0,0,0,0)), color-stop(100%,rgba(0,0,0,0.5))); /* Chrome,Safari4+ */
+	background: -webkit-linear-gradient(top,  rgba(0,0,0,0) 0%,rgba(0,0,0,0.5) 100%); /* Chrome10+,Safari5.1+ */
+	background: -o-linear-gradient(top,  rgba(0,0,0,0) 0%,rgba(0,0,0,0.5) 100%); /* Opera 11.10+ */
+	background: -ms-linear-gradient(top,  rgba(0,0,0,0) 0%,rgba(0,0,0,0.5) 100%); /* IE10+ */
+	background: linear-gradient(to bottom,  rgba(0,0,0,0) 0%,rgba(0,0,0,0.5) 100%); /* W3C */
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#00000000', endColorstr='#80000000',GradientType=0 ); /* IE6-9 */
+	background-color: #ffffff;
+	font-size: 2em;
+	width: auto;
+	height: 1em;
+	padding-top:0.31em;
+	padding-bottom:0.39em;
+	display: block;
+	border: thick solid rgba(255,255,255,1.00);
+}
+
+.button:hover {
+	color: #000000;
+	background-color: red;
+	border: 5px solid rgba(255,0,0,1.00);
+	text-decoration: none;
+}
+
+.figgis_link{
+	margin:auto;
+	width: 60%;
+	padding-top:5em;
+	}

@@ -1,0 +1,78 @@
+
+/****************************************
+  ==== RESETS
+****************************************/
+
+html,body,div,canvas { margin: 0; padding: 0; }
+::-moz-selection { color: #333; text-shadow: none; }
+::selection {  color: #333; text-shadow: none; }
+.clear:after { visibility: hidden; display: block; font-size: 0; content: " "; clear: both; height: 0; }
+.clear { display: inline-table; clear: both; }
+/* Hides from IE-mac \*/ * html .clear { height: 1%; } .clear { display: block; } /* End hide from IE-mac */
+
+/****************************************
+  ==== LAYOUT
+****************************************/
+
+html, body { width: 100%; height: 100%; font-family: Helvetica, Verdana, Arial, sans-serif; }
+
+p.header, p.footer { display: none; }
+
+.template-wrap { 
+    margin: 0 auto;
+    padding-top: 3em;
+    width: 640px;
+}
+
+.template-wrap canvas { margin: 0 0 10px 0; position: relative; z-index: 9; box-shadow: 0 10px 30px rgba(0,0,0,0.2); -moz-box-shadow: 0 10px 30px rgba(0,0,0,0.2); }
+.fullscreen { 
+	margin: 0 auto; 
+	position: relative; 
+	z-index: 10; }
+
+body.template { }
+.template .template-wrap { }
+.template .template-wrap canvas { }
+
+
+body{
+	color: #FFFFFF;
+	font-family: 'Realpolitik';
+	text-transform: uppercase;
+	margin: 0 auto;
+	position: relative;
+	text-align: center;
+	text-decoration: none;
+	background: url(/images/print.png) top center / 1024px 1024px no-repeat, -moz-radial-gradient(center, ellipse cover,  rgba(0,0,0,0) 0%, rgba(20,20,20,1) 100%); /* FF3.6-15 */
+	background: url(/images/print.png) top center / 1024px 1024px no-repeat, -webkit-radial-gradient(center, ellipse cover,  rgba(0,0,0,0) 0%,rgba(20,20,20,1) 100%); /* Chrome10-25,Safari5.1-6 */
+	background: url(/images/print.png) top center / 1024px 1024px no-repeat, radial-gradient(ellipse at center,  rgba(0,0,0,0) 0%,rgba(20,20,20,1) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#00000000', endColorstr='#141414',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */
+	background-color: #575757;
+	background-attachment: fixed;	
+}
+
+@media only screen and (-webkit-min-device-pixel-ratio: 1.5),
+	only screen and (-o-min-device-pixel-ratio: 3/2),
+	only screen and (min--moz-device-pixel-ratio: 1.5),
+	only screen and (min-device-pixel-ratio: 1.5) {
+		body {
+			color: #FFFFFF;
+			font-family: 'Realpolitik';
+			text-transform: uppercase;
+			margin: 0 auto;
+			position: relative;
+			text-align: center;
+			text-decoration: none;
+			background: url(/images/print@2x.png) top center / 1024px 1024px no-repeat, -moz-radial-gradient(center, ellipse cover,  rgba(0,0,0,0) 0%, rgba(20,20,20,1) 100%); /* FF3.6-15 */
+			background: url(/images/print@2x.png) top center / 1024px 1024px no-repeat, -webkit-radial-gradient(center, ellipse cover,  rgba(0,0,0,0) 0%,rgba(20,20,20,1) 100%); /* Chrome10-25,Safari5.1-6 */
+			background: url(/images/print@2x.png) top center / 1024px 1024px no-repeat, radial-gradient(ellipse at center,  rgba(0,0,0,0) 0%,rgba(20,20,20,1) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+			filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#00000000', endColorstr='#141414',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */
+			background-color: #575757;
+			background-attachment: fixed;}	
+}
+
+.figgis_link{
+	margin:auto;
+	width: 60%;
+	padding-top:5em;
+	}

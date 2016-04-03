@@ -1,0 +1,33 @@
+<?php
+$menu_items = array(
+	"HOME" => "/",
+	"ABOUT" => "/about/",
+   	"EXPERTISE" => "/expertise/",
+	"TESTIMONIAL" => "/testimonial/",
+	"CONTACT" => "/contact/",
+	"LOG IN" => "/login/",
+    );
+?>
+ 
+<div class="main_menu_container">
+        <ul id="main_menu">
+              
+        <?php
+    foreach ($menu_items as $title => $url)
+    {
+        if($current_url==$url)
+        {
+        ?>              
+                        <li class='active'><?php echo $title; ?></a></li>
+                        <?php
+                        }
+                    else  
+                    {
+                        ?>
+                        <li><a href="<?=$url?>"><?php echo $title; ?></a></li>
+                        <?php
+                        }
+        }  
+        ?>
+        </ul>
+</div>
