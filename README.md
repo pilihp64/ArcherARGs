@@ -1,12 +1,15 @@
-algersoft.net ARG
+Figgis Agency ARG
 =================
-Copy of the current algersoft ARG site
+This contains the most recent known files on Algersoft.net and Figgis.Agency
 
-Will be updated as anyone finds new files
+Will be updated as anyone finds new files.
 
-IRC: freenode.net #archerfx
+Search for clues!
+
+IRC: freenode.net ##ArcherScavengerHunt
 
 Latest News
 -----------
-The ARG has a been over a bit now, files will be checked rarely.
-- 5-15 - Ringtones were updated, notified via IRC
+
+4-3-16 - New puzzle starting off with the http://Figgis.Agency web link given out on twitter.
+  Minigame 'Toast to Toast', 87x87 grid of letters, tons of images and documents, have fun.
