@@ -70,9 +70,8 @@ ASSISTANCE IS NEEDED POST HASTE!
 <br>
 <br>
 <div id="logo"></div>
-<!--<img src="/images/logo.png" width="846" height="180" alt="ALGERSOFT"/>-->
-<div class="login">
-<form name="login" action="" method="post">
+<!--<img src="/images/logo.png" width="846" height="180" alt="ALGERSOFT"/>--><div class="login">
+<form name="login" action="/login/login.php" method="post">
 <span class="field_title">NAME</span><input type="text" name="username" value="">
 <span class="field_title">PASSWORD</span>
 <input type="password" name="password" value="">
