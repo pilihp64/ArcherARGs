@@ -6,7 +6,7 @@ Will be updated as anyone finds new files.
 
 Search for clues!
 
-IRC: freenode.net ##ArcherARG
+IRC: freenode.net ##ArcherScavengerHunt
 
 Latest News
 -----------
