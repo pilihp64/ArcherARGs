@@ -84,20 +84,21 @@
 <br>
 <br>
 
+
 <h1>Contents of /users/pam/</h1>
 
 <div class="wrap">
-<div class="block"><a href="pam/Furlock Bones 1.jpg" class="jpg">	<div class="img jpg">&nbsp;</div>	<div class="name">
+<div class="block"><a href="pam/Furlock Bones 1.jpg" class="jpg">	<div class="img thumb"><img src="pam/Furlock Bones 1_thumb.jpg"></div>	<div class="name">
 		<div class="file">Furlock Bones 1.jpg</div>
 		<div class="date">1.9 MB</div>
 	</div>
 	</a>
-</div><div class="block"><a href="pam/Furlock Bones 2.jpg" class="jpg">	<div class="img jpg">&nbsp;</div>	<div class="name">
+</div><div class="block"><a href="pam/Furlock Bones 2.jpg" class="jpg">	<div class="img thumb"><img src="pam/Furlock Bones 2_thumb.jpg"></div>	<div class="name">
 		<div class="file">Furlock Bones 2.jpg</div>
 		<div class="date">3.43 MB</div>
 	</div>
 	</a>
-</div><div class="block"><a href="pam/Sketches.png" class="png">	<div class="img png">&nbsp;</div>	<div class="name">
+</div><div class="block"><a href="pam/Sketches.png" class="png">	<div class="img thumb"><img src="pam/Sketches_thumb.png"></div>	<div class="name">
 		<div class="file">Sketches.png</div>
 		<div class="date">1.49 MB</div>
 	</div>

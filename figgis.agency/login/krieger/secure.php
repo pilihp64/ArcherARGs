@@ -84,155 +84,156 @@
 <br>
 <br>
 
+
 <h1>Contents of /users/krieger/</h1>
 
 <div class="wrap">
-<div class="block"><a href="krieger/accounts" class="dir">	<div class="img dir">&nbsp;</div>	<div class="name">
+<div class="block"><a href="krieger/accounts" class="dir">	<div class="img thumb"><img src="krieger/accounts_thumb.png"></div>	<div class="name">
 		<div class="file">accounts</div>
 		<div class="date">4 KB</div>
 	</div>
 	</a>
-</div><div class='sub' data-folder="krieger/accounts"><div class="block"><a href="krieger/accounts/01-04 Letter.png" class="png">	<div class="img png">&nbsp;</div>	<div class="name">
+</div><div class='sub' data-folder="krieger/accounts"><div class="block"><a href="krieger/accounts/01-04 Letter.png" class="png">	<div class="img thumb"><img src="krieger/accounts/01-04 Letter_thumb.png"></div>	<div class="name">
 		<div class="file">01-04 Letter.png</div>
 		<div class="date">186.27 KB</div>
 	</div>
 	</a>
-</div><div class="block"><a href="krieger/accounts/03-02 Certificate.png" class="png">	<div class="img png">&nbsp;</div>	<div class="name">
+</div><div class="block"><a href="krieger/accounts/03-02 Certificate.png" class="png">	<div class="img thumb"><img src="krieger/accounts/03-02 Certificate_thumb.png"></div>	<div class="name">
 		<div class="file">03-02 Certificate.png</div>
 		<div class="date">185.02 KB</div>
 	</div>
 	</a>
-</div><div class="block"><a href="krieger/accounts/08-18 Receipt.png" class="png">	<div class="img png">&nbsp;</div>	<div class="name">
+</div><div class="block"><a href="krieger/accounts/08-18 Receipt.png" class="png">	<div class="img thumb"><img src="krieger/accounts/08-18 Receipt_thumb.png"></div>	<div class="name">
 		<div class="file">08-18 Receipt.png</div>
 		<div class="date">142.15 KB</div>
 	</div>
 	</a>
-</div><div class="block"><a href="krieger/accounts/11-01 Receipt.png" class="png">	<div class="img png">&nbsp;</div>	<div class="name">
+</div><div class="block"><a href="krieger/accounts/11-01 Receipt.png" class="png">	<div class="img thumb"><img src="krieger/accounts/11-01 Receipt_thumb.png"></div>	<div class="name">
 		<div class="file">11-01 Receipt.png</div>
 		<div class="date">98.66 KB</div>
 	</div>
 	</a>
-</div><div class="block"><a href="krieger/accounts/11-02 Expenses.png" class="png">	<div class="img png">&nbsp;</div>	<div class="name">
+</div><div class="block"><a href="krieger/accounts/11-02 Expenses.png" class="png">	<div class="img thumb"><img src="krieger/accounts/11-02 Expenses_thumb.png"></div>	<div class="name">
 		<div class="file">11-02 Expenses.png</div>
 		<div class="date">106.28 KB</div>
 	</div>
 	</a>
-</div><div class="block"><a href="krieger/accounts/12-07 Disbursements.png" class="png">	<div class="img png">&nbsp;</div>	<div class="name">
+</div><div class="block"><a href="krieger/accounts/12-07 Disbursements.png" class="png">	<div class="img thumb"><img src="krieger/accounts/12-07 Disbursements_thumb.png"></div>	<div class="name">
 		<div class="file">12-07 Disbursements.png</div>
 		<div class="date">65.58 KB</div>
 	</div>
 	</a>
-</div></div><div class="block"><a href="krieger/misc" class="dir">	<div class="img dir">&nbsp;</div>	<div class="name">
+</div></div><div class="block"><a href="krieger/misc" class="dir">	<div class="img thumb"><img src="krieger/misc_thumb.png"></div>	<div class="name">
 		<div class="file">misc</div>
 		<div class="date">4 KB</div>
 	</div>
 	</a>
-</div><div class='sub' data-folder="krieger/misc"><div class="block"><a href="krieger/misc/empty folder" class="dir">	<div class="img dir">&nbsp;</div>	<div class="name">
+</div><div class='sub' data-folder="krieger/misc"><div class="block"><a href="krieger/misc/empty folder" class="dir">	<div class="img thumb"><img src="krieger/misc/empty folder_thumb.png"></div>	<div class="name">
 		<div class="file">empty folder</div>
 		<div class="date">4 KB</div>
 	</div>
 	</a>
-</div><div class='sub' data-folder="krieger/misc/empty folder"><div class="block"><a href="krieger/misc/empty folder/private" class="dir">	<div class="img dir">&nbsp;</div>	<div class="name">
+</div><div class='sub' data-folder="krieger/misc/empty folder"><div class="block"><a href="krieger/misc/empty folder/private" class="dir">	<div class="img thumb"><img src="krieger/misc/empty folder/private_thumb.png"></div>	<div class="name">
 		<div class="file">private</div>
 		<div class="date">4 KB</div>
 	</div>
 	</a>
-</div><div class='sub' data-folder="krieger/misc/empty folder/private"><div class="block"><a href="krieger/misc/empty folder/private/keep out!" class="dir">	<div class="img dir">&nbsp;</div>	<div class="name">
+</div><div class='sub' data-folder="krieger/misc/empty folder/private"><div class="block"><a href="krieger/misc/empty folder/private/keep out!" class="dir">	<div class="img thumb"><img src="krieger/misc/empty folder/private/keep out!_thumb.png"></div>	<div class="name">
 		<div class="file">keep out!</div>
 		<div class="date">4 KB</div>
 	</div>
 	</a>
-</div><div class='sub' data-folder="krieger/misc/empty folder/private/keep out!"><div class="block"><a href="krieger/misc/empty folder/private/keep out!/seriously, guys!" class="dir">	<div class="img dir">&nbsp;</div>	<div class="name">
+</div><div class='sub' data-folder="krieger/misc/empty folder/private/keep out!"><div class="block"><a href="krieger/misc/empty folder/private/keep out!/seriously, guys!" class="dir">	<div class="img thumb"><img src="krieger/misc/empty folder/private/keep out!/seriously, guys!_thumb.png"></div>	<div class="name">
 		<div class="file">seriously, guys!</div>
 		<div class="date">4 KB</div>
 	</div>
 	</a>
-</div><div class='sub' data-folder="krieger/misc/empty folder/private/keep out!/seriously, guys!"><div class="block"><a href="krieger/misc/empty folder/private/keep out!/seriously, guys!/c'mon!" class="dir">	<div class="img dir">&nbsp;</div>	<div class="name">
+</div><div class='sub' data-folder="krieger/misc/empty folder/private/keep out!/seriously, guys!"><div class="block"><a href="krieger/misc/empty folder/private/keep out!/seriously, guys!/c'mon!" class="dir">	<div class="img thumb"><img src="krieger/misc/empty folder/private/keep out!/seriously, guys!/c'mon!_thumb.png"></div>	<div class="name">
 		<div class="file">c'mon!</div>
 		<div class="date">4 KB</div>
 	</div>
 	</a>
-</div><div class='sub' data-folder="krieger/misc/empty folder/private/keep out!/seriously, guys!/c'mon!"><div class="block"><a href="krieger/misc/empty folder/private/keep out!/seriously, guys!/c'mon!/Evidence for CS-909.jpg" class="jpg">	<div class="img jpg">&nbsp;</div>	<div class="name">
-		<div class="file">Evidence for CS-909.jpg</div>
+</div><div class='sub' data-folder="krieger/misc/empty folder/private/keep out!/seriously, guys!/c'mon!"><div class="block"><a href="krieger/misc/empty folder/private/keep out!/seriously, guys!/c'mon!/CS-909.jpg" class="jpg">	<div class="img thumb"><img src="krieger/misc/empty folder/private/keep out!/seriously, guys!/c'mon!/CS-909_thumb.jpg"></div>	<div class="name">
+		<div class="file">CS-909.jpg</div>
 		<div class="date">431.78 KB</div>
 	</div>
 	</a>
-</div></div></div></div></div></div><div class="block"><a href="krieger/misc/ohzcref" class="dir">	<div class="img dir">&nbsp;</div>	<div class="name">
+</div></div></div></div></div></div><div class="block"><a href="krieger/misc/ohzcref" class="dir">	<div class="img thumb"><img src="krieger/misc/ohzcref_thumb.png"></div>	<div class="name">
 		<div class="file">ohzcref</div>
 		<div class="date">4 KB</div>
 	</div>
 	</a>
-</div><div class='sub' data-folder="krieger/misc/ohzcref"><div class="block"><a href="krieger/misc/ohzcref/ARCHER 1 (B).png" class="png">	<div class="img png">&nbsp;</div>	<div class="name">
+</div><div class='sub' data-folder="krieger/misc/ohzcref"><div class="block"><a href="krieger/misc/ohzcref/ARCHER 1 (B).png" class="png">	<div class="img thumb"><img src="krieger/misc/ohzcref/ARCHER 1 (B)_thumb.png"></div>	<div class="name">
 		<div class="file">ARCHER 1 (B).png</div>
 		<div class="date">117.75 KB</div>
 	</div>
 	</a>
-</div><div class="block"><a href="krieger/misc/ohzcref/ARCHER LANA CYRIL 1 (O,Y,R).png" class="png">	<div class="img png">&nbsp;</div>	<div class="name">
+</div><div class="block"><a href="krieger/misc/ohzcref/ARCHER LANA CYRIL 1 (O,Y,R).png" class="png">	<div class="img thumb"><img src="krieger/misc/ohzcref/ARCHER LANA CYRIL 1 (O,Y,R)_thumb.png"></div>	<div class="name">
 		<div class="file">ARCHER LANA CYRIL 1 (O,Y,R).png</div>
 		<div class="date">165.74 KB</div>
 	</div>
 	</a>
-</div><div class="block"><a href="krieger/misc/ohzcref/LANA ARCHER RAY 1 (P,P,P).png" class="png">	<div class="img png">&nbsp;</div>	<div class="name">
+</div><div class="block"><a href="krieger/misc/ohzcref/LANA ARCHER RAY 1 (P,P,P).png" class="png">	<div class="img thumb"><img src="krieger/misc/ohzcref/LANA ARCHER RAY 1 (P,P,P)_thumb.png"></div>	<div class="name">
 		<div class="file">LANA ARCHER RAY 1 (P,P,P).png</div>
 		<div class="date">160.63 KB</div>
 	</div>
 	</a>
-</div></div><div class="block"><a href="krieger/misc/algersoft.php" class="php">	<div class="img php">&nbsp;</div>	<div class="name">
+</div></div><div class="block"><a href="krieger/misc/algersoft.php" class="php">	<div class="img thumb"><img src="krieger/misc/algersoft_thumb.jpg"></div>	<div class="name">
 		<div class="file">algersoft</div>
 		<div class="date">75 B</div>
 	</div>
 	</a>
-</div></div><div class="block"><a href="krieger/projects" class="dir">	<div class="img dir">&nbsp;</div>	<div class="name">
+</div></div><div class="block"><a href="krieger/projects" class="dir">	<div class="img thumb"><img src="krieger/projects_thumb.png"></div>	<div class="name">
 		<div class="file">projects</div>
 		<div class="date">4 KB</div>
 	</div>
 	</a>
-</div><div class='sub' data-folder="krieger/projects"><div class="block"><a href="krieger/projects/Project Streicheln Licht" class="dir">	<div class="img dir">&nbsp;</div>	<div class="name">
+</div><div class='sub' data-folder="krieger/projects"><div class="block"><a href="krieger/projects/Project Streicheln Licht" class="dir">	<div class="img thumb"><img src="krieger/projects/Project Streicheln Licht_thumb.png"></div>	<div class="name">
 		<div class="file">Project Streicheln Licht</div>
 		<div class="date">4 KB</div>
 	</div>
 	</a>
-</div><div class='sub' data-folder="krieger/projects/Project Streicheln Licht"><div class="block"><a href="krieger/projects/Project Streicheln Licht/PCB Machine Code.txt" class="txt">	<div class="img txt">&nbsp;</div>	<div class="name">
+</div><div class='sub' data-folder="krieger/projects/Project Streicheln Licht"><div class="block"><a href="krieger/projects/Project Streicheln Licht/PCB Machine Code.txt" class="txt">	<div class="img thumb"><img src="krieger/projects/Project Streicheln Licht/PCB Machine Code_thumb.jpg"></div>	<div class="name">
 		<div class="file">PCB Machine Code.txt</div>
 		<div class="date">14.87 KB</div>
 	</div>
 	</a>
-</div></div><div class="block"><a href="krieger/projects/Grappling Hook.jpg" class="jpg">	<div class="img jpg">&nbsp;</div>	<div class="name">
+</div></div><div class="block"><a href="krieger/projects/Grappling Hook.jpg" class="jpg">	<div class="img thumb"><img src="krieger/projects/Grappling Hook_thumb.jpg"></div>	<div class="name">
 		<div class="file">Grappling Hook.jpg</div>
 		<div class="date">3.4 MB</div>
 	</div>
 	</a>
-</div><div class="block"><a href="krieger/projects/Project Redacted.pdf" class="pdf">	<div class="img pdf">&nbsp;</div>	<div class="name">
+</div><div class="block"><a href="krieger/projects/Project Redacted.pdf" class="pdf">	<div class="img thumb"><img src="krieger/projects/Project Redacted_thumb.jpg"></div>	<div class="name">
 		<div class="file">Project Redacted.pdf</div>
 		<div class="date">1.09 MB</div>
 	</div>
 	</a>
-</div><div class="block"><a href="krieger/projects/toast simulation.html" class="html">	<div class="img html">&nbsp;</div>	<div class="name">
+</div><div class="block"><a href="krieger/projects/toast simulation.html" class="html">	<div class="img thumb"><img src="krieger/projects/toast simulation_thumb.jpg"></div>	<div class="name">
 		<div class="file">toast simulation</div>
 		<div class="date">150 B</div>
 	</div>
 	</a>
-</div></div><div class="block"><a href="krieger/research" class="dir">	<div class="img dir">&nbsp;</div>	<div class="name">
+</div></div><div class="block"><a href="krieger/research" class="dir">	<div class="img thumb"><img src="krieger/research_thumb.png"></div>	<div class="name">
 		<div class="file">research</div>
 		<div class="date">4 KB</div>
 	</div>
 	</a>
-</div><div class='sub' data-folder="krieger/research"><div class="block"><a href="krieger/research/Lysergic Acid Diethylamide.png" class="png">	<div class="img png">&nbsp;</div>	<div class="name">
+</div><div class='sub' data-folder="krieger/research"><div class="block"><a href="krieger/research/Lysergic Acid Diethylamide.png" class="png">	<div class="img thumb"><img src="krieger/research/Lysergic Acid Diethylamide_thumb.png"></div>	<div class="name">
 		<div class="file">Lysergic Acid Diethylamide.png</div>
 		<div class="date">279.29 KB</div>
 	</div>
 	</a>
-</div><div class="block"><a href="krieger/research/Research Proposal.pdf" class="pdf">	<div class="img pdf">&nbsp;</div>	<div class="name">
+</div><div class="block"><a href="krieger/research/Research Proposal.pdf" class="pdf">	<div class="img thumb"><img src="krieger/research/Research Proposal_thumb.png"></div>	<div class="name">
 		<div class="file">Research Proposal.pdf</div>
 		<div class="date">785.75 KB</div>
 	</div>
 	</a>
-</div></div><div class="block"><a href="krieger/surveillance" class="dir">	<div class="img dir">&nbsp;</div>	<div class="name">
+</div></div><div class="block"><a href="krieger/surveillance" class="dir">	<div class="img thumb"><img src="krieger/surveillance_thumb.png"></div>	<div class="name">
 		<div class="file">surveillance</div>
 		<div class="date">4 KB</div>
 	</div>
 	</a>
-</div><div class='sub' data-folder="krieger/surveillance"><div class="block"><a href="krieger/surveillance/kr-cam viewer v2.8.html" class="html">	<div class="img html">&nbsp;</div>	<div class="name">
+</div><div class='sub' data-folder="krieger/surveillance"><div class="block"><a href="krieger/surveillance/kr-cam viewer v2.8.html" class="html">	<div class="img thumb"><img src="krieger/surveillance/kr-cam viewer v2.8_thumb.jpg"></div>	<div class="name">
 		<div class="file">kr-cam viewer v2.8</div>
 		<div class="date">150 B</div>
 	</div>

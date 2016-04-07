@@ -330,9 +330,8 @@ button:hover {
 	-webkit-box-sizing: border-box; 
 	box-sizing: border-box; }*/
 .wrap {
-	max-width: 43em;
+	max-width: 52em;
 	margin: 0 auto;
-	background-color: rgba(0,0,0,0.25);
 	margin-bottom:5em;
 	}
 @media only screen and (max-width: 700px) { .wrap { padding: 15px; } }
@@ -345,23 +344,24 @@ button:hover {
 .block { 
 	text-transform: uppercase;
 	text-align:left;
-	text-indent:8px;
+	text-indent:5px;
 	clear: both;  
-	min-height: 50px; 
-	border-top: solid 5px rgba(0,0,0,0.2); 
+	border-top: solid 5px rgba(0,0,0,0.0); 
 	font-size: 1.5em;
 }
 .block:first-child { 
 	border: none; 
 }
 .block .img {
-	width: 50px;
-	height: 50px;
+	width: 178px;
+	height: 100px;
 	display: block;
 	float: left;
 	margin-right: 10px;
-	background: transparent url(../../images/icons.png) no-repeat 0 0 / 1000px 50px;
 	margin-top: 0px;
+}
+.block .name {
+	margin-top: 22px;
 }
 .block .date {
 	margin-top: 4px;
@@ -372,18 +372,29 @@ button:hover {
 	display: block;
 	padding-top: 15px;
 	padding-right: 15px;
-	padding-left: 20px;
-	padding-bottom: 15px;
-	transition: all 0.35s;
+	padding-left: 15px;
+	padding-bottom: 39px;
+	transition: all 0.25s;
 	text-decoration:none;
 	color: #FFFFFF;
+	background-color: rgba(0,0,0,0.25);
 }
 .block a:hover {
 	color: #FFFFFF;
 	background-color: #B40000;
-	text-decoration: none;
+	text-decoration: none;  
 }
 		
+.thumb{
+	overflow:hidden;
+	padding:0;
+	text-align:center;
+	text-indent:0px;
+}
+.thumb img{
+	width:178px;
+	margin:auto;
+}
 .jpg, .JPG, .jpeg, .JPEG, .gif, .GIF, .png, .PNG { background-position: -50px 0 !important; } 
 .pdf, .PDF { background-position: -100px 0 !important; }  
 .txt, .rtf, .TXT, .RTF { background-position: -150px 0 !important; }
@@ -403,8 +414,16 @@ button:hover {
 .ai { background-position: -850px 0 !important; }
 .html, .xhtml, .dhtml, .php, .asp, .css, .js, .inc { background-position: -200px 0 !important; }
 .dir { background-position: -950px 0 !important; }		
-.sub { margin-left: 30px; border-left: none; display: none; }
-
+.sub { 
+	margin-left: 48px; 
+	margin-top:5px;
+	display: none; 
+	/* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#000000+0,000000+100&0+0,0.35+100 */
+	background: -moz-linear-gradient(left, rgba(0,0,0,0) 0%, rgba(0,0,0,0.35) 100%); /* FF3.6-15 */
+	background: -webkit-linear-gradient(left, rgba(0,0,0,0) 0%,rgba(0,0,0,0.35) 100%); /* Chrome10-25,Safari5.1-6 */
+	background: linear-gradient(to right, rgba(0,0,0,0) 0%,rgba(0,0,0,0.35) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#00000000', endColorstr='#59000000',GradientType=1 ); /* IE6-9 */
+	
 /* KRIEGCAM */
 .link a{
 	color:#02A302;

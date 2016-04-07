@@ -57,47 +57,47 @@
 <h1>VERONICA DEANE DOSSIER</h1>
 
 <div class="wrap">
-<div class="block"><a href="Alan Shapiro 1.jpg" class="jpg">	<div class="img jpg">&nbsp;</div>	<div class="name">
+<div class="block"><a href="Alan Shapiro 1.jpg" class="jpg">	<div class="img thumb"><img src="Alan Shapiro 1_thumb.png"></div>	<div class="name">
 		<div class="file">Alan Shapiro 1.jpg</div>
 		<div class="date">1.53 MB</div>
 	</div>
 	</a>
-</div><div class="block"><a href="Alan Shapiro 2.jpg" class="jpg">	<div class="img jpg">&nbsp;</div>	<div class="name">
+</div><div class="block"><a href="Alan Shapiro 2.jpg" class="jpg">	<div class="img thumb"><img src="Alan Shapiro 2_thumb.jpg"></div>	<div class="name">
 		<div class="file">Alan Shapiro 2.jpg</div>
 		<div class="date">4.79 MB</div>
 	</div>
 	</a>
-</div><div class="block"><a href="Alan Shapiro 3.jpg" class="jpg">	<div class="img jpg">&nbsp;</div>	<div class="name">
+</div><div class="block"><a href="Alan Shapiro 3.jpg" class="jpg">	<div class="img thumb"><img src="Alan Shapiro 3_thumb.jpg"></div>	<div class="name">
 		<div class="file">Alan Shapiro 3.jpg</div>
 		<div class="date">4.15 MB</div>
 	</div>
 	</a>
-</div><div class="block"><a href="Gum Shoe.jpg" class="jpg">	<div class="img jpg">&nbsp;</div>	<div class="name">
+</div><div class="block"><a href="Gum Shoe.jpg" class="jpg">	<div class="img thumb"><img src="Gum Shoe_thumb.png"></div>	<div class="name">
 		<div class="file">Gum Shoe.jpg</div>
 		<div class="date">2.3 MB</div>
 	</div>
 	</a>
-</div><div class="block"><a href="Shapiro House 1.jpg" class="jpg">	<div class="img jpg">&nbsp;</div>	<div class="name">
+</div><div class="block"><a href="Shapiro House 1.jpg" class="jpg">	<div class="img thumb"><img src="Shapiro House 1_thumb.jpg"></div>	<div class="name">
 		<div class="file">Shapiro House 1.jpg</div>
 		<div class="date">5.16 MB</div>
 	</div>
 	</a>
-</div><div class="block"><a href="Shapiro House 2.jpg" class="jpg">	<div class="img jpg">&nbsp;</div>	<div class="name">
+</div><div class="block"><a href="Shapiro House 2.jpg" class="jpg">	<div class="img thumb"><img src="Shapiro House 2_thumb.jpg"></div>	<div class="name">
 		<div class="file">Shapiro House 2.jpg</div>
 		<div class="date">4.87 MB</div>
 	</div>
 	</a>
-</div><div class="block"><a href="Veronica Deane 1.jpg" class="jpg">	<div class="img jpg">&nbsp;</div>	<div class="name">
+</div><div class="block"><a href="Veronica Deane 1.jpg" class="jpg">	<div class="img thumb"><img src="Veronica Deane 1_thumb.jpg"></div>	<div class="name">
 		<div class="file">Veronica Deane 1.jpg</div>
 		<div class="date">5.08 MB</div>
 	</div>
 	</a>
-</div><div class="block"><a href="Veronica Deane 2.jpg" class="jpg">	<div class="img jpg">&nbsp;</div>	<div class="name">
+</div><div class="block"><a href="Veronica Deane 2.jpg" class="jpg">	<div class="img thumb"><img src="Veronica Deane 2_thumb.jpg"></div>	<div class="name">
 		<div class="file">Veronica Deane 2.jpg</div>
 		<div class="date">4.71 MB</div>
 	</div>
 	</a>
-</div><div class="block"><a href="Veronica Deane 3.jpg" class="jpg">	<div class="img jpg">&nbsp;</div>	<div class="name">
+</div><div class="block"><a href="Veronica Deane 3.jpg" class="jpg">	<div class="img thumb"><img src="Veronica Deane 3_thumb.png"></div>	<div class="name">
 		<div class="file">Veronica Deane 3.jpg</div>
 		<div class="date">2.35 MB</div>
 	</div>
