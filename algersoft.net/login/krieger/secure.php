@@ -108,11 +108,6 @@ ASSISTANCE IS NEEDED POST HASTE!
 		<div class="date">2.55 KB</div>
 	</div>
 	</a>
-</div><div class="block"><a href="krieger/projects/arson simulation.php" class="php">	<div class="img php">&nbsp;</div>	<div class="name">
-		<div class="file">arson simulation</div>
-		<div class="date">173 B</div>
-	</div>
-	</a>
 </div></div><div class="block"><a href="krieger/research" class="dir">	<div class="img dir">&nbsp;</div>	<div class="name">
 		<div class="file">research</div>
 		<div class="date">4 KB</div>
