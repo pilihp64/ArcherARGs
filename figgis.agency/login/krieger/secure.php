@@ -173,6 +173,11 @@
 		<div class="date">165.74 KB</div>
 	</div>
 	</a>
+</div><div class="block"><a href="krieger/misc/ohzcref/LANA ARCHER CYRIL 1 (R,Y,O).png" class="png">	<div class="img thumb"><img src="krieger/misc/ohzcref/LANA ARCHER CYRIL 1 (R,Y,O)_thumb.png"></div>	<div class="name">
+		<div class="file">LANA ARCHER CYRIL 1 (R,Y,O).png</div>
+		<div class="date">175.37 KB</div>
+	</div>
+	</a>
 </div><div class="block"><a href="krieger/misc/ohzcref/LANA ARCHER RAY 1 (P,P,P).png" class="png">	<div class="img thumb"><img src="krieger/misc/ohzcref/LANA ARCHER RAY 1 (P,P,P)_thumb.png"></div>	<div class="name">
 		<div class="file">LANA ARCHER RAY 1 (P,P,P).png</div>
 		<div class="date">160.63 KB</div>
@@ -203,7 +208,7 @@
 		<div class="date">3.4 MB</div>
 	</div>
 	</a>
-</div><div class="block"><a href="krieger/projects/Project Redacted.pdf" class="pdf">	<div class="img thumb"><img src="krieger/projects/Project Redacted_thumb.jpg"></div>	<div class="name">
+</div><div class="block"><a href="krieger/projects/Project Redacted.pdf" class="pdf">	<div class="img thumb"><img src="krieger/projects/Project Redacted_thumb.png"></div>	<div class="name">
 		<div class="file">Project Redacted.pdf</div>
 		<div class="date">1.09 MB</div>
 	</div>
