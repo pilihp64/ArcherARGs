@@ -1,0 +1,79 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Untitled Document</title>
+<link rel="stylesheet" type="text/css" href="../cam_stylesheet.css">
+</head>
+<body>
+<div class="movie">
+<video id="nothing" width="800" height="450" autobuffer="true" autoplay>
+<source src="cam8.mp4" type="video/mp4">
+<source src="cam8.webm" type="video/webm">
+width="640" height="360">
+    <param name="allowfullscreen" value="true">
+    <param name="allowscriptaccess" value="always">
+    <param name="flashvars" value="file=movie.mp4">
+    <!--[if IE]><param name="movie" value="poster=poster.jpg&player.swf"><![endif]-->
+    </object></video>
+	
+<video id="something" width="800" height="450" autobuffer="true">
+<source src="cam8m.mp4" type="video/mp4">
+<source src="cam8m.webm" type="video/webm">
+width="640" height="360">
+    <param name="allowfullscreen" value="true">
+    <param name="allowscriptaccess" value="always">
+    <param name="flashvars" value="file=movie.mp4">
+    <!--[if IE]><param name="movie" value="poster=poster.jpg&player.swf"><![endif]-->
+    </object></video>
+</div>
+<div class="cam_button_container">
+<a href="cam1.php"><span class="cam_button">1</span></a>
+<a href="cam2.php"><span class="cam_button">2</span></a>
+<a href="cam3.php"><span class="cam_button">3</span></a>
+<a href="cam4.php"><span class="cam_button">4</span></a>
+<a href="cam5.php"><span class="cam_button">5</span></a>
+<a href="cam6.php"><span class="cam_button">6</span></a>
+<a href="cam7.php"><span class="cam_button">7</span></a>
+<span class="cam_button_selected">8</span>
+<a href="cam9.php"><span class="cam_button">9</span></a>
+</div>
+
+<script type='text/javascript'>
+(function(){
+    "use strict";
+    // Define a loop counter and save the elements for the video to a variable
+    var loop_count = 0;
+    var triggered = false;
+    var nothingEl = document.getElementById('nothing');
+    var somethingEl = document.getElementById('something');
+
+    // Add event listeners to the video elements
+    nothingEl.addEventListener('ended', nothingHandler);
+    somethingEl.addEventListener('ended', somethingHandler);
+
+    function nothingHandler(e) {
+        // If the animation has been triggered or the count is less than 20,
+        // just loop.
+        if (triggered || loop_count < 20){
+            // If we haven't been triggered yet, increment the counter
+            if (!triggered) loop_count++;
+            nothingEl.play();
+            return;
+        }
+        // Set the trigger, switch the video, and play the something element
+        triggered = true;
+        nothingEl.style.display = 'none';
+        somethingEl.style.display = 'block';
+        somethingEl.play();
+    }
+    function somethingHandler(e) {
+        // Switch the video and play the nothing element
+        somethingEl.style.display = 'none';
+        nothingEl.style.display = 'block';
+        nothingEl.play();
+    }
+})();
+</script>
+</body>
+</html>
