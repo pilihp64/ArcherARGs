@@ -70,42 +70,7 @@ ASSISTANCE IS NEEDED POST HASTE!
 <br>
 <br>
 <div id="logo"></div>
-<!--<img src="/images/logo.png" width="846" height="180" alt="ALGERSOFT"/>--><!doctype html>
-<html>
-<head>
-<meta charset="UTF-8">
-<meta name="description" content="We don't ask what you'll use it for. #ArcherFX">
-<meta name="keywords" content="SOFTWARE, HARDWARE, ROBOTICS, CYBORNETICS, CLONING, HOLOGRAPHY, DRUG THERAPY, TENTACLES, KRIEGERANDS">
-<meta name="author" content="Dr. Algernop Krieger">
-
-<meta property="og:title" content="KR-CAM VIEWER V2.8">
-<meta property="og:image" content="http://algersoft.net/hero_cam_facebook.jpg">
-<meta property="og:description" content="We don't ask what you'll use it for. #ArcherFX">
-<meta property="og:url" content="http://algersoft.net/login/krieger/surveillance/kr-cam%20viewer%20v2.8.html" />
-
-<meta name="twitter:card" content="summary" />
-<meta name="twitter:site" content="@KriegerSignals" />
-<meta name="twitter:title" content="KR-CAM VIEWER V2.8" />
-<meta name="twitter:description" content="We don't ask what you'll use it for. #ArcherFX" />
-<meta name="twitter:image" content="http://algersoft.net/hero_cam_twitter.jpg" />
-<meta name="twitter:url" content="http://algersoft.net/login/krieger/surveillance/kr-cam%20viewer%20v2.8.html" />
-
-<title>KR-CAM VIEWER V2.8</title>
-<link rel="stylesheet" type="text/css" href="../../../stylesheet.css">
-<script>
-  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-
-  ga('create', 'UA-59929264-1', 'auto');
-  ga('send', 'pageview');
-
-</script>
-</head>
-
-<body>
-
+<!--<img src="/images/logo.png" width="846" height="180" alt="ALGERSOFT"/>-->
 <br>
 <br>
 
