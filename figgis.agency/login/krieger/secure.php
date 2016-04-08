@@ -153,7 +153,7 @@
 		<div class="date">4 KB</div>
 	</div>
 	</a>
-</div><div class='sub' data-folder="krieger/misc/empty folder/private/keep out!/seriously, guys!/c'mon!"><div class="block"><a href="krieger/misc/empty folder/private/keep out!/seriously, guys!/c'mon!/CS-909.jpg" class="jpg">	<div class="img thumb"><img src="krieger/misc/empty folder/private/keep out!/seriously, guys!/c'mon!/CS-909_thumb.jpg"></div>	<div class="name">
+</div><div class='sub' data-folder="krieger/misc/empty folder/private/keep out!/seriously, guys!/c'mon!"><div class="block"><a href="krieger/misc/empty folder/private/keep out!/seriously, guys!/c'mon!/CS-909.jpg" class="jpg">	<div class="img thumb"><img src="krieger/misc/empty folder/private/keep out!/seriously, guys!/c'mon!/CS-909_thumb.png"></div>	<div class="name">
 		<div class="file">CS-909.jpg</div>
 		<div class="date">431.78 KB</div>
 	</div>
@@ -183,7 +183,7 @@
 		<div class="date">160.63 KB</div>
 	</div>
 	</a>
-</div></div><div class="block"><a href="krieger/misc/algersoft.php" class="php">	<div class="img thumb"><img src="krieger/misc/algersoft_thumb.jpg"></div>	<div class="name">
+</div></div><div class="block"><a href="krieger/misc/algersoft.php" class="php">	<div class="img thumb"><img src="krieger/misc/algersoft_thumb.png"></div>	<div class="name">
 		<div class="file">algersoft</div>
 		<div class="date">75 B</div>
 	</div>
