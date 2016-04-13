@@ -208,6 +208,11 @@
 		<div class="date">3.4 MB</div>
 	</div>
 	</a>
+</div><div class="block"><a href="krieger/projects/Project Paper Fold.png" class="png">	<div class="img thumb"><img src="krieger/projects/Project Paper Fold_thumb.png"></div>	<div class="name">
+		<div class="file">Project Paper Fold.png</div>
+		<div class="date">732.58 KB</div>
+	</div>
+	</a>
 </div><div class="block"><a href="krieger/projects/Project Redacted.pdf" class="pdf">	<div class="img thumb"><img src="krieger/projects/Project Redacted_thumb.png"></div>	<div class="name">
 		<div class="file">Project Redacted.pdf</div>
 		<div class="date">1.09 MB</div>
