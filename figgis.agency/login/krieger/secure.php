@@ -193,7 +193,12 @@
 		<div class="date">160.63 KB</div>
 	</div>
 	</a>
-</div></div><div class="block"><a href="krieger/misc/algersoft.php" class="php">	<div class="img thumb"><img src="krieger/misc/algersoft_thumb.png"></div>	<div class="name">
+</div></div><div class="block"><a href="krieger/misc/Krieger's Kastle.png" class="png">	<div class="img thumb"><img src="krieger/misc/Krieger's Kastle_thumb.png"></div>	<div class="name">
+		<div class="file">Krieger's Kastle.png</div>
+		<div class="date">517.47 KB</div>
+	</div>
+	</a>
+</div><div class="block"><a href="krieger/misc/algersoft.php" class="php">	<div class="img thumb"><img src="krieger/misc/algersoft_thumb.png"></div>	<div class="name">
 		<div class="file">algersoft</div>
 		<div class="date">75 B</div>
 	</div>
