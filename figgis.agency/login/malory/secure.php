@@ -85,31 +85,28 @@
 <br>
 
 
-<h1>/users/malory/ is quarantined.<p>Retreiving clean files from backup.<p>Please wait.</h1>
+<h1>/users/malory/ is quarantined.<p>Retrieving clean files from backup.<p>Please wait.</h1>
 
 <div class="wrap">
-<br />
-<b>Warning</b>:  scandir(/home/sevzersi/public_html/figgis/login/malory): failed to open dir: No such file or directory in <b>/home/sevzersi/public_html/figgis/login/secure.php</b> on line <b>188</b><br />
-<br />
-<b>Warning</b>:  scandir(): (errno 2): No such file or directory in <b>/home/sevzersi/public_html/figgis/login/secure.php</b> on line <b>188</b><br />
-<br />
-<b>Warning</b>:  Invalid argument supplied for foreach() in <b>/home/sevzersi/public_html/figgis/login/secure.php</b> on line <b>123</b><br />
-
-
-
 
 <script>
 
     var start_url = "";
 
     function reveal(url) {
-        $('.sub[data-folder="' + url + '"]').slideToggle();
+        var $dir = $('.sub[data-folder="' + url + '"]');
+        $dir.slideToggle().toggleClass('opened');
         window.history.replaceState(url, "", "/login/?u="+url);
-        var url_parts = url.split('/');
-        url_parts = url_parts.slice(0, url_parts.length - 1);
-        while (url_parts.length >= 2){
-            $('.sub[data-folder="' + url_parts.join('/') + '"]').slideToggle();
+        if ($dir.is('.opened')){
+            var url_parts = url.split('/');
             url_parts = url_parts.slice(0, url_parts.length - 1);
+            while (url_parts.length >= 2){
+                var $parent = $('.sub[data-folder="' + url_parts.join('/') + '"]');
+                if (!$parent.is('.opened')){
+                    $parent.slideToggle().toggleClass('opened');
+                }
+                url_parts = url_parts.slice(0, url_parts.length - 1);
+            }
         }
     }
 
