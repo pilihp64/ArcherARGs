@@ -79,28 +79,15 @@
 <br>
 <br>
 <br>
-<div id="logo"></div><link rel="stylesheet" type="text/css" href="../../stylesheet.css">
-<br>
-<br>
-<br>
+<div id="logo"></div><div class="login">
+<form name="login" action="/login/login.php" method="post">
+<span class="field_title">NAME</span><input type="text" name="username" value="">
+<span class="field_title">PASSWORD</span>
+<input type="password" name="password" value="">
+<input type="submit" name="submit" value="LOG IN">
+</form>
+</div>
 
-<h1>/users/malory/ is quarantined.<p>Retreiving clean files from backup.<p>Please wait.</h1>
-
-<div class="wrap">
-
-<script>
-	$(document).ready(function() 
-	{
-		$("a.dir").click(function(e)
-		{
-		 	$('.sub[data-folder="' + $(this).attr('href') + '"]').slideToggle();
-			console.log( $(this).attr('href') );
-			e.preventDefault();
-		});
-	
-	});
-</script>
-</div>		<form  action="/login/logout.php?logout" method="get"><input type="submit" name="logout" value="LOG OUT"></input></form>
 <br><br><br><br>
 <div class="sticky hidden"><img src="../images/sticky.png" width="261" height="236" alt="Credentials"></div>
 </body>

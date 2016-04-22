@@ -79,44 +79,15 @@
 <br>
 <br>
 <br>
-<div id="logo"></div><link rel="stylesheet" type="text/css" href="../../stylesheet.css">
-<br>
-<br>
-<br>
-
-
-<h1>Contents of /users/pam/</h1>
-
-<div class="wrap">
-<div class="block"><a href="pam/Furlock Bones 1.jpg" class="jpg">	<div class="img thumb"><img src="pam/Furlock Bones 1_thumb.jpg"></div>	<div class="name">
-		<div class="file">Furlock Bones 1.jpg</div>
-		<div class="date">1.9 MB</div>
-	</div>
-	</a>
-</div><div class="block"><a href="pam/Furlock Bones 2.jpg" class="jpg">	<div class="img thumb"><img src="pam/Furlock Bones 2_thumb.jpg"></div>	<div class="name">
-		<div class="file">Furlock Bones 2.jpg</div>
-		<div class="date">3.43 MB</div>
-	</div>
-	</a>
-</div><div class="block"><a href="pam/Sketches.png" class="png">	<div class="img thumb"><img src="pam/Sketches_thumb.png"></div>	<div class="name">
-		<div class="file">Sketches.png</div>
-		<div class="date">1.49 MB</div>
-	</div>
-	</a>
+<div id="logo"></div><div class="login">
+<form name="login" action="/login/login.php" method="post">
+<span class="field_title">NAME</span><input type="text" name="username" value="">
+<span class="field_title">PASSWORD</span>
+<input type="password" name="password" value="">
+<input type="submit" name="submit" value="LOG IN">
+</form>
 </div>
-<script>
-	$(document).ready(function() 
-	{
-		$("a.dir").click(function(e)
-		{
-		 	$('.sub[data-folder="' + $(this).attr('href') + '"]').slideToggle();
-			console.log( $(this).attr('href') );
-			e.preventDefault();
-		});
-	
-	});
-</script>
-</div>		<form  action="/login/logout.php?logout" method="get"><input type="submit" name="logout" value="LOG OUT"></input></form>
+
 <br><br><br><br>
 <div class="sticky hidden"><img src="../images/sticky.png" width="261" height="236" alt="Credentials"></div>
 </body>
