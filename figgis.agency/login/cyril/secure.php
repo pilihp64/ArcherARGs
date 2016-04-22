@@ -101,7 +101,7 @@
 </div>
 <script>
 
-    var start_url = "";
+    var start_url = "cyril";
 
     function reveal(url) {
         var $dir = $('.sub[data-folder="' + url + '"]');

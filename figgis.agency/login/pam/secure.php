@@ -106,7 +106,7 @@
 </div>
 <script>
 
-    var start_url = "";
+    var start_url = "pam";
 
     function reveal(url) {
         var $dir = $('.sub[data-folder="' + url + '"]');

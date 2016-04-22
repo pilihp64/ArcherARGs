@@ -91,7 +91,7 @@
 
 <script>
 
-    var start_url = "";
+    var start_url = "ray";
 
     function reveal(url) {
         var $dir = $('.sub[data-folder="' + url + '"]');
