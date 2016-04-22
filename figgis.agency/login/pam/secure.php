@@ -79,15 +79,65 @@
 <br>
 <br>
 <br>
-<div id="logo"></div><div class="login">
-<form name="login" action="/login/login.php" method="post">
-<span class="field_title">NAME</span><input type="text" name="username" value="">
-<span class="field_title">PASSWORD</span>
-<input type="password" name="password" value="">
-<input type="submit" name="submit" value="LOG IN">
-</form>
+<div id="logo"></div><link rel="stylesheet" type="text/css" href="../../stylesheet.css">
+<br>
+<br>
+<br>
+
+
+<h1>Contents of /users/pam</h1>
+
+<div class="wrap">
+<div class="block"><a href="/login/pam/Furlock Bones 1.jpg" class="jpg">  <div class="img thumb"><img src="pam/Furlock Bones 1_thumb.jpg"></div>  <div class="name">
+      <div class="file">Furlock Bones 1.jpg</div>
+      <div class="date">1.9 MB</div>
+  </div>
+  </a>
+</div><div class="block"><a href="/login/pam/Furlock Bones 2.jpg" class="jpg">  <div class="img thumb"><img src="pam/Furlock Bones 2_thumb.jpg"></div>  <div class="name">
+      <div class="file">Furlock Bones 2.jpg</div>
+      <div class="date">3.43 MB</div>
+  </div>
+  </a>
+</div><div class="block"><a href="/login/pam/Sketches.png" class="png">  <div class="img thumb"><img src="pam/Sketches_thumb.png"></div>  <div class="name">
+      <div class="file">Sketches.png</div>
+      <div class="date">1.49 MB</div>
+  </div>
+  </a>
 </div>
 
+
+
+<script>
+
+    var start_url = "";
+
+    function reveal(url) {
+        $('.sub[data-folder="' + url + '"]').slideToggle();
+        window.history.replaceState(url, "", "/login/?u="+url);
+        var url_parts = url.split('/');
+        url_parts = url_parts.slice(0, url_parts.length - 1);
+        while (url_parts.length >= 2){
+            $('.sub[data-folder="' + url_parts.join('/') + '"]').slideToggle();
+            url_parts = url_parts.slice(0, url_parts.length - 1);
+        }
+    }
+
+    $(document).ready(function() 
+    {
+        if(start_url)
+            reveal(start_url);
+        else
+            window.history.replaceState("pam", "", "/login/?u=pam");
+
+        $("a.dir").click(function(e)
+        {
+            reveal($(this).attr('href'));
+            e.preventDefault();
+        });
+    
+    });
+</script>
+</div><form  action="/login/logout.php?logout" method="get"><input type="submit" name="logout" value="LOG OUT"></input></form>
 <br><br><br><br>
 <div class="sticky hidden"><img src="../images/sticky.png" width="261" height="236" alt="Credentials"></div>
 </body>

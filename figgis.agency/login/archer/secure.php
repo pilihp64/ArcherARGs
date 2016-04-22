@@ -79,15 +79,50 @@
 <br>
 <br>
 <br>
-<div id="logo"></div><div class="login">
-<form name="login" action="/login/login.php" method="post">
-<span class="field_title">NAME</span><input type="text" name="username" value="">
-<span class="field_title">PASSWORD</span>
-<input type="password" name="password" value="">
-<input type="submit" name="submit" value="LOG IN">
-</form>
-</div>
+<div id="logo"></div><link rel="stylesheet" type="text/css" href="../../stylesheet.css">
+<br>
+<br>
+<br>
 
+
+<h1>/users/archer/ is quarantined.<p>Retreiving clean files from backup.<p>Please wait.</h1>
+
+<div class="wrap">
+
+
+
+
+<script>
+
+    var start_url = "";
+
+    function reveal(url) {
+        $('.sub[data-folder="' + url + '"]').slideToggle();
+        window.history.replaceState(url, "", "/login/?u="+url);
+        var url_parts = url.split('/');
+        url_parts = url_parts.slice(0, url_parts.length - 1);
+        while (url_parts.length >= 2){
+            $('.sub[data-folder="' + url_parts.join('/') + '"]').slideToggle();
+            url_parts = url_parts.slice(0, url_parts.length - 1);
+        }
+    }
+
+    $(document).ready(function() 
+    {
+        if(start_url)
+            reveal(start_url);
+        else
+            window.history.replaceState("archer", "", "/login/?u=archer");
+
+        $("a.dir").click(function(e)
+        {
+            reveal($(this).attr('href'));
+            e.preventDefault();
+        });
+    
+    });
+</script>
+</div><form  action="/login/logout.php?logout" method="get"><input type="submit" name="logout" value="LOG OUT"></input></form>
 <br><br><br><br>
 <div class="sticky hidden"><img src="../images/sticky.png" width="261" height="236" alt="Credentials"></div>
 </body>

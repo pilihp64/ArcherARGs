@@ -279,8 +279,12 @@
     function reveal(url) {
         $('.sub[data-folder="' + url + '"]').slideToggle();
         window.history.replaceState(url, "", "/login/?u="+url);
-        console.log( url );
-        
+        var url_parts = url.split('/');
+        url_parts = url_parts.slice(0, url_parts.length - 1);
+        while (url_parts.length >= 2){
+            $('.sub[data-folder="' + url_parts.join('/') + '"]').slideToggle();
+            url_parts = url_parts.slice(0, url_parts.length - 1);
+        }
     }
 
     $(document).ready(function() 
