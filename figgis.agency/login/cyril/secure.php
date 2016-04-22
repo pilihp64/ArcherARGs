@@ -85,10 +85,20 @@
 <br>
 
 
-<h1>/users/cyril/ is quarantined.<p>Retrieving clean files from backup.<p>Please wait.</h1>
+<h1>Contents of /users/cyril</h1>
 
 <div class="wrap">
-
+<div class="block"><a href="/login/cyril/barry dylan dossier.php" class="php">  <div class="img thumb"><img src="cyril/barry dylan dossier_thumb.jpg"></div>  <div class="name">
+      <div class="file">barry dylan dossier</div>
+      <div class="date">49 B</div>
+  </div>
+  </a>
+</div><div class="block"><a href="/login/cyril/veronica deane dossier.php" class="php">  <div class="img thumb"><img src="cyril/veronica deane dossier_thumb.jpg"></div>  <div class="name">
+      <div class="file">veronica deane dossier</div>
+      <div class="date">49 B</div>
+  </div>
+  </a>
+</div>
 <script>
 
     var start_url = "";
