@@ -390,8 +390,8 @@ button:hover {
 	padding:0;
 	text-align:center;
 	text-indent:0px;
-	-webkit-filter: drop-shadow(3px 3px 15px #222);
-	filter:drop-shadow(3px 3px 10px #222);
+/*	-webkit-filter: drop-shadow(3px 3px 15px #222);
+	filter:drop-shadow(3px 3px 10px #222);*/
 }
 .thumb img{
 	width:178px;
@@ -482,4 +482,4 @@ a {	text-decoration: none;
 	margin:auto;
 	width: 60%;
 	padding-top:5em;
-	}
+}

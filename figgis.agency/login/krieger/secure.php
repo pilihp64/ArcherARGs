@@ -198,8 +198,8 @@
       <div class="date">160.63 KB</div>
   </div>
   </a>
-</div></div><div class="block"><a href="/login/krieger/misc/ASCII Bound.php" class="php">  <div class="img thumb"><img src="krieger/misc/ASCII Bound_thumb.png"></div>  <div class="name">
-      <div class="file">ASCII Bound</div>
+</div></div><div class="block"><a href="/login/krieger/misc/ASCII Bound.video.php" class="php">  <div class="img thumb"><img src="krieger/misc/ASCII Bound.video_thumb.png"></div>  <div class="name">
+      <div class="file">ASCII Bound.video</div>
       <div class="date">52 B</div>
   </div>
   </a>
@@ -208,8 +208,8 @@
       <div class="date">517.47 KB</div>
   </div>
   </a>
-</div><div class="block"><a href="/login/krieger/misc/algersoft.php" class="php">  <div class="img thumb"><img src="krieger/misc/algersoft_thumb.png"></div>  <div class="name">
-      <div class="file">algersoft</div>
+</div><div class="block"><a href="/login/krieger/misc/algersoft.net.php" class="php">  <div class="img thumb"><img src="krieger/misc/algersoft.net_thumb.png"></div>  <div class="name">
+      <div class="file">algersoft.net</div>
       <div class="date">75 B</div>
   </div>
   </a>
