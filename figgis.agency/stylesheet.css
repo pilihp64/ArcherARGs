@@ -386,10 +386,12 @@ button:hover {
 }
 		
 .thumb{
-	overflow:hidden;
+	overflow:visible;
 	padding:0;
 	text-align:center;
 	text-indent:0px;
+	-webkit-filter: drop-shadow(3px 3px 15px #222);
+	filter:drop-shadow(3px 3px 10px #222);
 }
 .thumb img{
 	width:178px;
