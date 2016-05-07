@@ -88,7 +88,12 @@
 <h1>Contents of /users/pam</h1>
 
 <div class="wrap">
-<div class="block"><a href="/login/pam/Furlock Bones 1.jpg" class="jpg">  <div class="img thumb"><img src="pam/Furlock Bones 1_thumb.jpg"></div>  <div class="name">
+<div class="block"><a href="/login/pam/Beach Glamour.php" class="php">  <div class="img thumb"><img src="pam/Beach Glamour_thumb.png"></div>  <div class="name">
+      <div class="file">Beach Glamour</div>
+      <div class="date">43 B</div>
+  </div>
+  </a>
+</div><div class="block"><a href="/login/pam/Furlock Bones 1.jpg" class="jpg">  <div class="img thumb"><img src="pam/Furlock Bones 1_thumb.jpg"></div>  <div class="name">
       <div class="file">Furlock Bones 1.jpg</div>
       <div class="date">1.9 MB</div>
   </div>
