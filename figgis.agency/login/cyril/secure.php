@@ -88,7 +88,12 @@
 <h1>Contents of /users/cyril</h1>
 
 <div class="wrap">
-<div class="block"><a href="/login/cyril/barry dylan dossier.php" class="php">  <div class="img thumb"><img src="cyril/barry dylan dossier_thumb.jpg"></div>  <div class="name">
+<div class="block"><a href="/login/cyril/The Logo.jpg" class="jpg">  <div class="img thumb"><img src="cyril/The Logo_thumb.jpg"></div>  <div class="name">
+      <div class="file">The Logo.jpg</div>
+      <div class="date">1.75 MB</div>
+  </div>
+  </a>
+</div><div class="block"><a href="/login/cyril/barry dylan dossier.php" class="php">  <div class="img thumb"><img src="cyril/barry dylan dossier_thumb.jpg"></div>  <div class="name">
       <div class="file">barry dylan dossier</div>
       <div class="date">49 B</div>
   </div>

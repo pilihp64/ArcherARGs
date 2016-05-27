@@ -85,10 +85,25 @@
 <br>
 
 
-<h1>/users/lana/ is quarantined.<p>Retrieving clean files from backup.<p>Please wait.</h1>
+<h1>Contents of /users/lana</h1>
 
 <div class="wrap">
-
+<div class="block"><a href="/login/lana/La Brea Tar Pits.jpg" class="jpg">  <div class="img thumb"><img src="lana/La Brea Tar Pits_thumb.jpg"></div>  <div class="name">
+      <div class="file">La Brea Tar Pits.jpg</div>
+      <div class="date">2.12 MB</div>
+  </div>
+  </a>
+</div><div class="block"><a href="/login/lana/Sixth Street Viaduct.jpg" class="jpg">  <div class="img thumb"><img src="lana/Sixth Street Viaduct_thumb.jpg"></div>  <div class="name">
+      <div class="file">Sixth Street Viaduct.jpg</div>
+      <div class="date">2.16 MB</div>
+  </div>
+  </a>
+</div><div class="block"><a href="/login/lana/Swimsuit.jpg" class="jpg">  <div class="img thumb"><img src="lana/Swimsuit_thumb.jpg"></div>  <div class="name">
+      <div class="file">Swimsuit.jpg</div>
+      <div class="date">4.5 MB</div>
+  </div>
+  </a>
+</div>
 <script>
 
     var start_url = "lana";
