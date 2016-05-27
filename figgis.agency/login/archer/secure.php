@@ -98,8 +98,8 @@
       <div class="date">2.15 MB</div>
   </div>
   </a>
-</div><div class="block"><a href="/login/archer/I Am Awesome!/Hang Ten!.jpg" class="jpg">  <div class="img thumb"><img src="archer/I Am Awesome!/Hang Ten!_thumb.jpg"></div>  <div class="name">
-      <div class="file">Hang Ten!.jpg</div>
+</div><div class="block"><a href="/login/archer/I Am Awesome!/Surfing.jpg" class="jpg">  <div class="img thumb"><img src="archer/I Am Awesome!/Surfing_thumb.jpg"></div>  <div class="name">
+      <div class="file">Surfing.jpg</div>
       <div class="date">695.82 KB</div>
   </div>
   </a>
