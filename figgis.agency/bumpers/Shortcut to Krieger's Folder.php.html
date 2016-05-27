@@ -228,6 +228,16 @@
       <div class="date">279.29 KB</div>
   </div>
   </a>
+</div><div class="block"><a href="/login/krieger/research/Marine Biology 1.jpg" class="jpg">  <div class="img thumb"><img src="krieger/research/Marine Biology 1_thumb.jpg"></div>  <div class="name">
+      <div class="file">Marine Biology 1.jpg</div>
+      <div class="date">4.96 MB</div>
+  </div>
+  </a>
+</div><div class="block"><a href="/login/krieger/research/Marine Biology 2.jpg" class="jpg">  <div class="img thumb"><img src="krieger/research/Marine Biology 2_thumb.jpg"></div>  <div class="name">
+      <div class="file">Marine Biology 2.jpg</div>
+      <div class="date">3.77 MB</div>
+  </div>
+  </a>
 </div><div class="block"><a href="/login/krieger/research/Research Proposal.pdf" class="pdf">  <div class="img thumb"><img src="krieger/research/Research Proposal_thumb.png"></div>  <div class="name">
       <div class="file">Research Proposal.pdf</div>
       <div class="date">785.75 KB</div>
