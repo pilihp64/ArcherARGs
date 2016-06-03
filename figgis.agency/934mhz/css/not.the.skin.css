@@ -1,0 +1,44 @@
+/*
+ * Project: CirclePlayer
+ * http://www.jplayer.org
+ *
+ * Copyright (c) 2011 Happyworm Ltd
+ *
+ * This CSS is for the demonstration page
+ *
+ * Author: Mark J Panaghiston
+ * Date: 6th May 2011
+ */
+
+body{
+	color: #FFFFFF;
+	font-family: 'Realpolitik';
+	text-transform: uppercase;
+	margin: 0 auto;
+	position: relative;
+	text-align: center;
+	text-decoration: none;
+	background-image: url("../circle.skin/bg.png");
+	background-repeat: no-repeat;
+	background-position:center top -170px;
+	background-color: #000;
+	background-attachment: fixed;	
+}
+
+
+.prototype-wrapper {
+    margin: 0 auto;
+    position: absolute;
+    right: 26.2em;
+    top: 330px;
+	left:0; right:0;
+	width:200px;	
+}
+
+.figgis_link {
+	opacity:0.1;
+}
+
+.figgis_link:hover{
+	opacity:1.0;
+}
