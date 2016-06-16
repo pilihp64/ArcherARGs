@@ -1,0 +1,99 @@
+body{
+	color: #FFFFFF;
+	font-family: 'Press-Start-2P';
+	letter-spacing: 1px;
+	margin: 0 auto;
+	position: relative;
+	text-align: center;
+	text-decoration: none;
+	background-color: #000;
+}
+
+@font-face {
+	font-family: 'Press-Start-2P';
+    src:url('/font/Press-Start-2P.ttf.woff') format('woff'),
+        url('/font/Press-Start-2P.ttf.svg#Press-Start-2P') format('svg'),
+        url('/font/Press-Start-2P.ttf.eot'),
+        url('/font/Press-Start-2P.ttf.eot?#iefix') format('embedded-opentype'); 
+    font-weight: normal;
+    font-style: normal;
+}
+
+.figgis_link {
+	margin:auto;
+	width: 200px;
+	padding-top:3em;
+	opacity:0.25;
+}
+
+.figgis_link:hover{
+	opacity:1.0;
+}
+
+.infographic {
+    max-width: 100%;
+    height: auto;
+    width: auto\9; /* ie8 */
+   	margin-top: 2.5em;
+   	margin-bottom: 2.5em;
+}
+
+a{
+	font-family: 'Press-Start-2P';
+    font-weight: normal;
+    font-style: normal;
+	font-style: normal;
+	color: #00FF00;
+	margin: 0 auto;
+	position: relative;
+	text-decoration: none;
+}
+.pad{	
+	padding-top:2em;
+}
+
+a:hover{
+	color: red;
+}
+
+.big_wrap{
+	text-align: center;
+	width:800px;
+	margin: 0 auto;
+	position: relative;
+}
+.wrap_left {
+	float:left;
+	padding-left: 0em;
+}
+
+.wrap_right {
+	float:right;
+	padding-right: 5em;
+}
+.content {
+	display: inline-block; 
+	text-align: left
+}
+
+h1 {
+	text-align:center;
+	color:#00FF00;
+}
+p {
+	font-size: 1.25em;
+	line-height: 150%;
+}
+
+.legal {
+	padding-top:3em;
+	padding-bottom:3em;
+	color:#111;
+}
+
+ul {
+	font-size:1.2em;
+	line-height: 200%;
+	list-style-type: none;
+	 margin-left: -2.1em;
+}

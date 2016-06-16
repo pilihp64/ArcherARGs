@@ -46,7 +46,7 @@ a{
 	url('/font/Realpolitik.ttf.eot?#iefix') format('embedded-opentype'); 
 	font-weight: normal;
 	font-style: normal;
-	color: #FFFFFF;
+	color: #FF0000;
 	text-transform: uppercase;
 	margin: 0 auto;
 	position: relative;
@@ -54,7 +54,7 @@ a{
 }
 
 a:hover{
-	color: red;
+	color: #FFF;
 }
 
 .big_wrap{
@@ -72,9 +72,49 @@ a:hover{
 	float:right;
 	padding-right: 5em;
 }
+.center {
+	padding-top: 14em;
+}
 .content {
 	display: inline-block; 
 	text-align: left
 }
 
-p {line-height: 75%;}
+p {
+	line-height: 75%;
+}
+
+ul {
+	font-size:1.2em;
+	line-height: 200%;
+	list-style-type: none;
+	 margin-left: -2.1em;
+	 text-align: left;
+}
+
+.fudge {
+	font-size: 1.25em;
+	line-height: 150%;
+	text-align: left;
+}
+
+.rotate {
+/* Safari */
+-webkit-transform: rotate(2deg);
+
+/* Firefox */
+-moz-transform: rotate(2deg);
+
+/* IE */
+-ms-transform: rotate(2deg);
+
+/* Opera */
+-o-transform: rotate(2deg);
+
+/* Internet Explorer */
+filter: progid:DXImageTransform.Microsoft.BasicImage(rotation=3);
+}
+
+.foot {
+	margin-bottom: 60em;
+}
