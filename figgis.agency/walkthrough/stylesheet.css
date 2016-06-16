@@ -1,0 +1,80 @@
+body{
+	color: #FFFFFF;
+	font-family: 'Realpolitik';
+	text-transform: uppercase;
+	margin: 0 auto;
+	position: relative;
+	text-align: center;
+	text-decoration: none;
+	background-color: #000;
+}
+
+@font-face {
+	font-family: 'Realpolitik';
+	src:url('/font/Realpolitik.ttf.woff') format('woff'),
+	url('/font/Realpolitik.ttf.svg#Realpolitik') format('svg'),
+	url('/font/Realpolitik.ttf.eot'),
+	url('/font/Realpolitik.ttf.eot?#iefix') format('embedded-opentype'); 
+	font-weight: normal;
+	font-style: normal;
+}
+
+.figgis_link {
+	margin:auto;
+	width: 200px;
+	padding-top:3em;
+	opacity:0.25;
+}
+
+.figgis_link:hover{
+	opacity:1.0;
+}
+
+.infographic {
+    max-width: 100%;
+    height: auto;
+    width: auto\9; /* ie8 */
+   	margin-top: 2.5em;
+   	margin-bottom: 2.5em;
+}
+
+a{
+	font-family: 'Realpolitik';
+	src:url('/font/Realpolitik.ttf.woff') format('woff'),
+	url('/font/Realpolitik.ttf.svg#Realpolitik') format('svg'),
+	url('/font/Realpolitik.ttf.eot'),
+	url('/font/Realpolitik.ttf.eot?#iefix') format('embedded-opentype'); 
+	font-weight: normal;
+	font-style: normal;
+	color: #FFFFFF;
+	text-transform: uppercase;
+	margin: 0 auto;
+	position: relative;
+	text-decoration: none;
+}
+
+a:hover{
+	color: red;
+}
+
+.big_wrap{
+	text-align: center;
+	width:800px;
+	margin: 0 auto;
+	position: relative;
+}
+.wrap_left {
+	float:left;
+	padding-left: 5em;
+}
+
+.wrap_right {
+	float:right;
+	padding-right: 5em;
+}
+.content {
+	display: inline-block; 
+	text-align: left
+}
+
+p {line-height: 75%;}
