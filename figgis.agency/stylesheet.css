@@ -49,6 +49,20 @@ body{
 
 #tagline {
     font-size: 200%;
+	text-shadow: 2px 2px 6px rgba(0, 0, 0, 0.75); 
+}
+
+.complete {
+	padding-top: 4em;
+}
+
+a { 
+	color: #FF0000;
+	text-decoration: none;
+}
+	
+a:hover { 
+	color: #FFF;
 }
 
 /*MENU*/
@@ -477,3 +491,4 @@ a {	text-decoration: none;
 	border: 5px solid rgba(255,0,0,1.00);
 	text-decoration: none;
 }
+
